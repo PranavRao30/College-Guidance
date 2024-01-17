@@ -1,0 +1,5602 @@
+[
+  {
+    "College, Branch": "E001 AI Artificial\nIntelligence",
+    "GM": 5267
+  },
+  {
+    "College, Branch": "E001 CE Civil",
+    "GM": 62799
+  },
+  {
+    "College, Branch": "E001 CS Computers",
+    "GM": 2929
+  },
+  {
+    "College, Branch": "E001 EC Electronics",
+    "GM": 7766
+  },
+  {
+    "College, Branch": "E001 EE Electrical",
+    "GM": 20138
+  },
+  {
+    "College, Branch": "E001 IE Info.Science",
+    "GM": 4009
+  },
+  {
+    "College, Branch": "E001ME Mechanical",
+    "GM": 59696
+  },
+  {
+    "College, Branch": "E002  CE Civil",
+    "GM": 103463
+  },
+  {
+    "College, Branch": "E002 CS Computers",
+    "GM": 15261
+  },
+  {
+    "College, Branch": "E002 EC Electronics",
+    "GM": 28046
+  },
+  {
+    "College, Branch": "E002 ST Silk Tech.",
+    "GM": 147374
+  },
+  {
+    "College, Branch": "E002 TX Textiles",
+    "GM": 202411
+  },
+  {
+    "College, Branch": "E003 CE Civil",
+    "GM": 40554
+  },
+  {
+    "College, Branch": "E003 EC Electronics",
+    "GM": 2392
+  },
+  {
+    "College, Branch": "E003 EE Electrical",
+    "GM": 11201
+  },
+  {
+    "College, Branch": "E003 IM Ind. Engg.\nMgmt.",
+    "GM": 43572
+  },
+  {
+    "College, Branch": "E003ME Mechanical",
+    "GM": 20448
+  },
+  {
+    "College, Branch": "E004 CE Civil",
+    "GM": 105923
+  },
+  {
+    "College, Branch": "E004CS Computers",
+    "GM": 9059
+  },
+  {
+    "College, Branch": "E004EC Electronics",
+    "GM": 18809
+  },
+  {
+    "College, Branch": "E004EE Electrical",
+    "GM": 38102
+  },
+  {
+    "College, Branch": "E004EI Elec. Inst.\nEngg",
+    "GM": 53573
+  },
+  {
+    "College, Branch": "E004ET Elec.\nTelecommn. Engg.",
+    "GM": 39383
+  },
+  {
+    "College, Branch": "E004IM Ind. Engg.\nMgmt.",
+    "GM": 103225
+  },
+  {
+    "College, Branch": "E004ME Mechanical",
+    "GM": 108301
+  },
+  {
+    "College, Branch": "E005AI Artificial\nIntelligence",
+    "GM": 660
+  },
+  {
+    "College, Branch": "E005BT Bio Technology",
+    "GM": 6753
+  },
+  {
+    "College, Branch": "E005CE Civil",
+    "GM": 18500
+  },
+  {
+    "College, Branch": "E005CH Chemical",
+    "GM": 12821
+  },
+  {
+    "College, Branch": "E005CS Computers",
+    "GM": 310
+  },
+  {
+    "College, Branch": "E005CY CS- Cyber\nSecurity",
+    "GM": 726
+  },
+  {
+    "College, Branch": "E005DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 511
+  },
+  {
+    "College, Branch": "E005EC Electronics",
+    "GM": 969
+  },
+  {
+    "College, Branch": "E005EE Electrical",
+    "GM": 3532
+  },
+  {
+    "College, Branch": "E005EI Elec. Inst.\nEngg",
+    "GM": 4687
+  },
+  {
+    "College, Branch": "E005ET Elec.\nTelecommn. Engg.",
+    "GM": 3119
+  },
+  {
+    "College, Branch": "E005IE Info.Science",
+    "GM": 435
+  },
+  {
+    "College, Branch": "E005IM Ind. Engg.\nMgmt.",
+    "GM": 16875
+  },
+  {
+    "College, Branch": "E005ME Mechanical",
+    "GM": 6137
+  },
+  {
+    "College, Branch": "E005SE Aero Space\nEngg.",
+    "GM": 4078
+  },
+  {
+    "College, Branch": "E006AD Artificial\nIntel, Data Sc",
+    "GM": 2860
+  },
+  {
+    "College, Branch": "E006AI Artificial\nIntelligence",
+    "GM": 2415
+  },
+  {
+    "College, Branch": "E006BT Bio Technology",
+    "GM": 15077
+  },
+  {
+    "College, Branch": "E006CA CS (AI, Machine\nLearning)",
+    "GM": 2230
+  },
+  {
+    "College, Branch": "E006CE Civil",
+    "GM": 35217
+  },
+  {
+    "College, Branch": "E006CH Chemical",
+    "GM": 26332
+  },
+  {
+    "College, Branch": "E006CS Computers",
+    "GM": 1171
+  },
+  {
+    "College, Branch": "E006CY CS- Cyber\nSecurity",
+    "GM": 2762
+  },
+  {
+    "College, Branch": "E006EC Electronics",
+    "GM": 4094
+  },
+  {
+    "College, Branch": "E006EE Electrical",
+    "GM": 7763
+  },
+  {
+    "College, Branch": "E006EI Elec. Inst.\nEngg",
+    "GM": 10794
+  },
+  {
+    "College, Branch": "E006ET Elec.\nTelecommn. Engg.",
+    "GM": 7914
+  },
+  {
+    "College, Branch": "E006IE Info.Science",
+    "GM": 1995
+  },
+  {
+    "College, Branch": "E006IM Ind. Engg.\nMgmt.",
+    "GM": 55277
+  },
+  {
+    "College, Branch": "E006MD Med.Elect.",
+    "GM": 37624
+  },
+  {
+    "College, Branch": "E006ME Mechanical",
+    "GM": 27245
+  },
+  {
+    "College, Branch": "E007AE Aeronaut.Engg",
+    "GM": 16481
+  },
+  {
+    "College, Branch": "E007AI Artificial\nIntelligence",
+    "GM": 4892
+  },
+  {
+    "College, Branch": "E007AU Automobile",
+    "GM": 74559
+  },
+  {
+    "College, Branch": "E007BT Bio Technology",
+    "GM": 24840
+  },
+  {
+    "College, Branch": "E007CB Comp. Sc. and\nBus Sys.",
+    "GM": 7882
+  },
+  {
+    "College, Branch": "E007CD Computer Sc.\nand Design",
+    "GM": 8863
+  },
+  {
+    "College, Branch": "E007CE Civil",
+    "GM": 89790
+  },
+  {
+    "College, Branch": "E007CH Chemical",
+    "GM": 60672
+  },
+  {
+    "College, Branch": "E007CS Computers",
+    "GM": 3677
+  },
+  {
+    "College, Branch": "E007CY CS- Cyber\nSecurity",
+    "GM": 6538
+  },
+  {
+    "College, Branch": "E007DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 5839
+  },
+  {
+    "College, Branch": "E007EC Electronics",
+    "GM": 9860
+  },
+  {
+    "College, Branch": "E007EE Electrical",
+    "GM": 27256
+  },
+  {
+    "College, Branch": "E007EI Elec. Inst.\nEngg",
+    "GM": 30469
+  },
+  {
+    "College, Branch": "E007ET Elec.\nTelecommn. Engg.",
+    "GM": 22157
+  },
+  {
+    "College, Branch": "E007IC CS-IoT, Cyber\nSecurity",
+    "GM": 8208
+  },
+  {
+    "College, Branch": "E007IE Info.Science",
+    "GM": 5528
+  },
+  {
+    "College, Branch": "E007MD Med.Elect.",
+    "GM": 73522
+  },
+  {
+    "College, Branch": "E007ME Mechanical",
+    "GM": 57811
+  },
+  {
+    "College, Branch": "E007RI Robotics and AI",
+    "GM": 12588
+  },
+  {
+    "College, Branch": "E008AI Artificial\nIntelligence",
+    "GM": 6735
+  },
+  {
+    "College, Branch": "E008CE Civil",
+    "GM": 98254
+  },
+  {
+    "College, Branch": "E008CS Computers",
+    "GM": 5509
+  },
+  {
+    "College, Branch": "E008DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 8122
+  },
+  {
+    "College, Branch": "E008EC Electronics",
+    "GM": 11806
+  },
+  {
+    "College, Branch": "E008EE Electrical",
+    "GM": 28278
+  },
+  {
+    "College, Branch": "E008EI Elec. Inst.\nEngg",
+    "GM": 34331
+  },
+  {
+    "College, Branch": "E008ET Elec.\nTelecommn. Engg.",
+    "GM": 24872
+  },
+  {
+    "College, Branch": "E008EV EC  Engg(VLSI\nDesign)",
+    "GM": 25931
+  },
+  {
+    "College, Branch": "E008IC CS-IoT, Cyber\nSecurity",
+    "GM": 10775
+  },
+  {
+    "College, Branch": "E008IE Info.Science",
+    "GM": 7440
+  },
+  {
+    "College, Branch": "E008ME Mechanical",
+    "GM": 75570
+  },
+  {
+    "College, Branch": "E008RI Robotics and AI",
+    "GM": 16915
+  },
+  {
+    "College, Branch": "E009AM B Tech in AM",
+    "GM": 1765
+  },
+  {
+    "College, Branch": "E009BB B Tech in EC",
+    "GM": 3803
+  },
+  {
+    "College, Branch": "E009BJ B Tech in EE",
+    "GM": 6836
+  },
+  {
+    "College, Branch": "E009BO B Tech in BT",
+    "GM": 14206
+  },
+  {
+    "College, Branch": "E009BW B Tech in CS",
+    "GM": 1124
+  },
+  {
+    "College, Branch": "E009DB B Tech in ME",
+    "GM": 26736
+  },
+  {
+    "College, Branch": "E011AE Aeronaut.Engg",
+    "GM": 84155
+  },
+  {
+    "College, Branch": "E011AI Artificial\nIntelligence",
+    "GM": 21704
+  },
+  {
+    "College, Branch": "E011CD Computer Sc.\nand Design",
+    "GM": 33121
+  },
+  {
+    "College, Branch": "E011CE Civil",
+    "GM": 164212
+  },
+  {
+    "College, Branch": "E011CH Chemical",
+    "GM": 118400
+  },
+  {
+    "College, Branch": "E011CS Computers",
+    "GM": 19389
+  },
+  {
+    "College, Branch": "E011DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 25338
+  },
+  {
+    "College, Branch": "E011EB EAT",
+    "GM": 51119
+  },
+  {
+    "College, Branch": "E011EC Electronics",
+    "GM": 34103
+  },
+  {
+    "College, Branch": "E011EE Electrical",
+    "GM": 63902
+  },
+  {
+    "College, Branch": "E011EV EC  Engg(VLSI\nDesign)",
+    "GM": 74674
+  },
+  {
+    "College, Branch": "E011IE Info.Science",
+    "GM": 22211
+  },
+  {
+    "College, Branch": "E011ME Mechanical",
+    "GM": 124949
+  },
+  {
+    "College, Branch": "E011OT Industrial IOT",
+    "GM": 101015
+  },
+  {
+    "College, Branch": "E011SE Aero Space\nEngg.",
+    "GM": 77991
+  },
+  {
+    "College, Branch": "E012AI Artificial\nIntelligence",
+    "GM": 13622
+  },
+  {
+    "College, Branch": "E012BT Bio Technology",
+    "GM": 39887
+  },
+  {
+    "College, Branch": "E012CE Civil",
+    "GM": 106148
+  },
+  {
+    "College, Branch": "E012CS Computers",
+    "GM": 9858
+  },
+  {
+    "College, Branch": "E012EC Electronics",
+    "GM": 17686
+  },
+  {
+    "College, Branch": "E012EE Electrical",
+    "GM": 47220
+  },
+  {
+    "College, Branch": "E012IC CS-IoT, Cyber\nSecurity",
+    "GM": 17947
+  },
+  {
+    "College, Branch": "E012IE Info.Science",
+    "GM": 12914
+  },
+  {
+    "College, Branch": "E012ME Mechanical",
+    "GM": 104328
+  },
+  {
+    "College, Branch": "E012TC Telecommn.",
+    "GM": 46333
+  },
+  {
+    "College, Branch": "E013AI Artificial\nIntelligence",
+    "GM": 86212
+  },
+  {
+    "College, Branch": "E013CS Computers",
+    "GM": 68050
+  },
+  {
+    "College, Branch": "E013CY CS- Cyber\nSecurity",
+    "GM": 89645
+  },
+  {
+    "College, Branch": "E013EC Electronics",
+    "GM": 89949
+  },
+  {
+    "College, Branch": "E013EE Electrical",
+    "GM": 122952
+  },
+  {
+    "College, Branch": "E013IE Info.Science",
+    "GM": 83375
+  },
+  {
+    "College, Branch": "E014AD Artificial\nIntel, Data Sc",
+    "GM": 33747
+  },
+  {
+    "College, Branch": "E014AE Aeronaut.Engg",
+    "GM": 72257
+  },
+  {
+    "College, Branch": "E014CA CS (AI, Machine\nLearning)",
+    "GM": 36618
+  },
+  {
+    "College, Branch": "E014CD Computer Sc.\nand Design",
+    "GM": 62115
+  },
+  {
+    "College, Branch": "E014CE Civil",
+    "GM": 198425
+  },
+  {
+    "College, Branch": "E014CS Computers",
+    "GM": 25222
+  },
+  {
+    "College, Branch": "E014EC Electronics",
+    "GM": 51153
+  },
+  {
+    "College, Branch": "E014IE Info.Science",
+    "GM": 35799
+  },
+  {
+    "College, Branch": "E014ME Mechanical",
+    "GM": 154966
+  },
+  {
+    "College, Branch": "E014SE Aero Space\nEngg.",
+    "GM": 70462
+  },
+  {
+    "College, Branch": "E015CA CS (AI, Machine\nLearning)",
+    "GM": 86671
+  },
+  {
+    "College, Branch": "E015CE Civil",
+    "GM": 196617
+  },
+  {
+    "College, Branch": "E015CS Computers",
+    "GM": 68063
+  },
+  {
+    "College, Branch": "E015EC Electronics",
+    "GM": 89401
+  },
+  {
+    "College, Branch": "E015EE Electrical",
+    "GM": 115895
+  },
+  {
+    "College, Branch": "E015ME Mechanical",
+    "GM": 202308
+  },
+  {
+    "College, Branch": "E015mn Mining\nEngineering",
+    "GM": 112284
+  },
+  {
+    "College, Branch": "E016AD Artificial\nIntel, Data Sc",
+    "GM": 10054
+  },
+  {
+    "College, Branch": "E016BT Bio Technology",
+    "GM": 44727
+  },
+  {
+    "College, Branch": "E016CA CS (AI, Machine\nLearning)",
+    "GM": 9869
+  },
+  {
+    "College, Branch": "E016CE Civil",
+    "GM": 71956
+  },
+  {
+    "College, Branch": "E016CH Chemical",
+    "GM": 98632
+  },
+  {
+    "College, Branch": "E016CS Computers",
+    "GM": 5328
+  },
+  {
+    "College, Branch": "E016EC Electronics",
+    "GM": 11265
+  },
+  {
+    "College, Branch": "E016EE Electrical",
+    "GM": 23416
+  },
+  {
+    "College, Branch": "E016EI Elec. Inst.\nEngg",
+    "GM": 29089
+  },
+  {
+    "College, Branch": "E016ET Elec.\nTelecommn. Engg.",
+    "GM": 20866
+  },
+  {
+    "College, Branch": "E016IE Info.Science",
+    "GM": 8223
+  },
+  {
+    "College, Branch": "E016IM Ind. Engg.\nMgmt.",
+    "GM": 93711
+  },
+  {
+    "College, Branch": "E016ME Mechanical",
+    "GM": 91988
+  },
+  {
+    "College, Branch": "E017AI Artificial\nIntelligence",
+    "GM": 33389
+  },
+  {
+    "College, Branch": "E017BM Bio Medical",
+    "GM": 110788
+  },
+  {
+    "College, Branch": "E017CE Civil",
+    "GM": 137222
+  },
+  {
+    "College, Branch": "E017CS Computers",
+    "GM": 27296
+  },
+  {
+    "College, Branch": "E017CY CS- Cyber\nSecurity",
+    "GM": 51848
+  },
+  {
+    "College, Branch": "E017DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 48429
+  },
+  {
+    "College, Branch": "E017EC Electronics",
+    "GM": 45062
+  },
+  {
+    "College, Branch": "E017EE Electrical",
+    "GM": 89508
+  },
+  {
+    "College, Branch": "E017ET Elec.\nTelecommn. Engg.",
+    "GM": 73303
+  },
+  {
+    "College, Branch": "E017IE Info.Science",
+    "GM": 34131
+  },
+  {
+    "College, Branch": "E017ME Mechanical",
+    "GM": 155654
+  },
+  {
+    "College, Branch": "E018AI Artificial\nIntelligence",
+    "GM": 73298
+  },
+  {
+    "College, Branch": "E018CE Civil",
+    "GM": 199587
+  },
+  {
+    "College, Branch": "E018CS Computers",
+    "GM": 50716
+  },
+  {
+    "College, Branch": "E018EC Electronics",
+    "GM": 82761
+  },
+  {
+    "College, Branch": "E018IE Info.Science",
+    "GM": 60782
+  },
+  {
+    "College, Branch": "E018ME Mechanical",
+    "GM": 203066
+  },
+  {
+    "College, Branch": "E021CE Civil",
+    "GM": 57141
+  },
+  {
+    "College, Branch": "E021CS Computers",
+    "GM": 1854
+  },
+  {
+    "College, Branch": "E021EC Electronics",
+    "GM": 5845
+  },
+  {
+    "College, Branch": "E021EE Electrical",
+    "GM": 18824
+  },
+  {
+    "College, Branch": "E021EI Elec. Inst.\nEngg",
+    "GM": 22832
+  },
+  {
+    "College, Branch": "E021EN Environmental",
+    "GM": 76851
+  },
+  {
+    "College, Branch": "E021IP Ind.Prodn.",
+    "GM": 76715
+  },
+  {
+    "College, Branch": "E021ME Mechanical",
+    "GM": 45442
+  },
+  {
+    "College, Branch": "E021PT Polymer Tech.",
+    "GM": 118449
+  },
+  {
+    "College, Branch": "E022CE Civil",
+    "GM": 82211
+  },
+  {
+    "College, Branch": "E022EC Electronics",
+    "GM": 9018
+  },
+  {
+    "College, Branch": "E022ME Mechanical",
+    "GM": 45351
+  },
+  {
+    "College, Branch": "E023CE Civil",
+    "GM": 131329
+  },
+  {
+    "College, Branch": "E023EC Electronics",
+    "GM": 23139
+  },
+  {
+    "College, Branch": "E023EE Electrical",
+    "GM": 42177
+  },
+  {
+    "College, Branch": "E023ME Mechanical",
+    "GM": 174231
+  },
+  {
+    "College, Branch": "E024CE Civil",
+    "GM": 121181
+  },
+  {
+    "College, Branch": "E024EC Electronics",
+    "GM": 25124
+  },
+  {
+    "College, Branch": "E024EE Electrical",
+    "GM": 48128
+  },
+  {
+    "College, Branch": "E024ME Mechanical",
+    "GM": 200461
+  },
+  {
+    "College, Branch": "E028CD Computer Sc.\nand Design",
+    "GM": 88687
+  },
+  {
+    "College, Branch": "E028CE Civil",
+    "GM": 175269
+  },
+  {
+    "College, Branch": "E028CS Computers",
+    "GM": 47427
+  },
+  {
+    "College, Branch": "E028EA Agriculture\nEngineering",
+    "GM": 81068
+  },
+  {
+    "College, Branch": "E028EC Electronics",
+    "GM": 62297
+  },
+  {
+    "College, Branch": "E028EE Electrical",
+    "GM": 97557
+  },
+  {
+    "College, Branch": "E028ME Mechanical",
+    "GM": 140386
+  },
+  {
+    "College, Branch": "E029CS Computers",
+    "GM": 59603
+  },
+  {
+    "College, Branch": "E029EC Electronics",
+    "GM": 79579
+  },
+  {
+    "College, Branch": "RI Robotics and AI",
+    "GM": 114087
+  },
+  {
+    "College, Branch": "E031CE Civil",
+    "GM": 102819
+  },
+  {
+    "College, Branch": "E031CS Computers",
+    "GM": 14950
+  },
+  {
+    "College, Branch": "E031EC Electronics",
+    "GM": 24670
+  },
+  {
+    "College, Branch": "E031EE Electrical",
+    "GM": 50275
+  },
+  {
+    "College, Branch": "E031IP Ind.Prodn.",
+    "GM": 192680
+  },
+  {
+    "College, Branch": "E031ME Mechanical",
+    "GM": 203368
+  },
+  {
+    "College, Branch": "E032CE Civil",
+    "GM": 183569
+  },
+  {
+    "College, Branch": "E032CS Computers",
+    "GM": 66283
+  },
+  {
+    "College, Branch": "E032EC Electronics",
+    "GM": 81785
+  },
+  {
+    "College, Branch": "E032ME Mechanical",
+    "GM": 112615
+  },
+  {
+    "College, Branch": "E032TX Textiles",
+    "GM": 202097
+  },
+  {
+    "College, Branch": "E033CE Civil",
+    "GM": 159629
+  },
+  {
+    "College, Branch": "E033CS Computers",
+    "GM": 58547
+  },
+  {
+    "College, Branch": "E033EC Electronics",
+    "GM": 79878
+  },
+  {
+    "College, Branch": "E033EE Electrical",
+    "GM": 118404
+  },
+  {
+    "College, Branch": "E033IE Info.Science",
+    "GM": 78008
+  },
+  {
+    "College, Branch": "E034AI Artificial\nIntelligence",
+    "GM": 14819
+  },
+  {
+    "College, Branch": "E034CE Civil",
+    "GM": 118262
+  },
+  {
+    "College, Branch": "E034CH Chemical",
+    "GM": 94026
+  },
+  {
+    "College, Branch": "E034CS Computers",
+    "GM": 10164
+  },
+  {
+    "College, Branch": "E034EC Electronics",
+    "GM": 15783
+  },
+  {
+    "College, Branch": "E034EE Electrical",
+    "GM": 29561
+  },
+  {
+    "College, Branch": "E034IE Info.Science",
+    "GM": 12508
+  },
+  {
+    "College, Branch": "E034ME Mechanical",
+    "GM": 118517
+  },
+  {
+    "College, Branch": "E035CA CS (AI, Machine\nLearning)",
+    "GM": 85156
+  },
+  {
+    "College, Branch": "E035CS Computers",
+    "GM": 76870
+  },
+  {
+    "College, Branch": "E035DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 123460
+  },
+  {
+    "College, Branch": "E035EC Electronics",
+    "GM": 115850
+  },
+  {
+    "College, Branch": "E035EE Electrical",
+    "GM": 193594
+  },
+  {
+    "College, Branch": "E036BM Bio Medical",
+    "GM": 115988
+  },
+  {
+    "College, Branch": "E036CE Civil",
+    "GM": 200533
+  },
+  {
+    "College, Branch": "E036CF CS(Artificial\nIntel.)",
+    "GM": 19602
+  },
+  {
+    "College, Branch": "E036CH Chemical",
+    "GM": 135052
+  },
+  {
+    "College, Branch": "E036CS Computers",
+    "GM": 16417
+  },
+  {
+    "College, Branch": "E036EC Electronics",
+    "GM": 22221
+  },
+  {
+    "College, Branch": "E036EE Electrical",
+    "GM": 45222
+  },
+  {
+    "College, Branch": "E036ME Mechanical",
+    "GM": 164663
+  },
+  {
+    "College, Branch": "E037AE Aeronaut.Engg",
+    "GM": 54623
+  },
+  {
+    "College, Branch": "E037CE Civil",
+    "GM": 180044
+  },
+  {
+    "College, Branch": "E037CS Computers",
+    "GM": 9207
+  },
+  {
+    "College, Branch": "E037EC Electronics",
+    "GM": 17919
+  },
+  {
+    "College, Branch": "E037EE Electrical",
+    "GM": 34350
+  },
+  {
+    "College, Branch": "E037IE Info.Science",
+    "GM": 15045
+  },
+  {
+    "College, Branch": "E037ME Mechanical",
+    "GM": 95774
+  },
+  {
+    "College, Branch": "E038CA CS (AI, Machine\nLearning)",
+    "GM": 42102
+  },
+  {
+    "College, Branch": "E038CE Civil",
+    "GM": 118862
+  },
+  {
+    "College, Branch": "E038CS Computers",
+    "GM": 28737
+  },
+  {
+    "College, Branch": "E038DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 51625
+  },
+  {
+    "College, Branch": "E038EC Electronics",
+    "GM": 41130
+  },
+  {
+    "College, Branch": "E038EE Electrical",
+    "GM": 74416
+  },
+  {
+    "College, Branch": "E038IE Info.Science",
+    "GM": 37919
+  },
+  {
+    "College, Branch": "E038ME Mechanical",
+    "GM": 202941
+  },
+  {
+    "College, Branch": "E040CE Civil",
+    "GM": 148664
+  },
+  {
+    "College, Branch": "E040CS Computers",
+    "GM": 45121
+  },
+  {
+    "College, Branch": "E040EC Electronics",
+    "GM": 60325
+  },
+  {
+    "College, Branch": "E040EE Electrical",
+    "GM": 120723
+  },
+  {
+    "College, Branch": "E040ME Mechanical",
+    "GM": 188021
+  },
+  {
+    "College, Branch": "E041CE Civil",
+    "GM": 123603
+  },
+  {
+    "College, Branch": "E041EC Electronics",
+    "GM": 39001
+  },
+  {
+    "College, Branch": "E041EE Electrical",
+    "GM": 60959
+  },
+  {
+    "College, Branch": "E041ME Mechanical",
+    "GM": 202218
+  },
+  {
+    "College, Branch": "E042AE Aeronaut.Engg",
+    "GM": 107788
+  },
+  {
+    "College, Branch": "E042CE Civil",
+    "GM": 180303
+  },
+  {
+    "College, Branch": "E042CS Computers",
+    "GM": 47454
+  },
+  {
+    "College, Branch": "E042EC Electronics",
+    "GM": 89627
+  },
+  {
+    "College, Branch": "E042ME Mechanical",
+    "GM": 197836
+  },
+  {
+    "College, Branch": "E043AI Artificial\nIntelligence",
+    "GM": 53806
+  },
+  {
+    "College, Branch": "E043CE Civil",
+    "GM": 193767
+  },
+  {
+    "College, Branch": "E043CS Computers",
+    "GM": 34650
+  },
+  {
+    "College, Branch": "E043DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 58930
+  },
+  {
+    "College, Branch": "E043EC Electronics",
+    "GM": 77056
+  },
+  {
+    "College, Branch": "E043EE Electrical",
+    "GM": 102317
+  },
+  {
+    "College, Branch": "E043IC CS-IoT, Cyber\nSecurity",
+    "GM": 93430
+  },
+  {
+    "College, Branch": "E043IE Info.Science",
+    "GM": 67998
+  },
+  {
+    "College, Branch": "E043ME Mechanical",
+    "GM": 129836
+  },
+  {
+    "College, Branch": "E044CA CS (AI, Machine\nLearning)",
+    "GM": 59730
+  },
+  {
+    "College, Branch": "E044CE Civil",
+    "GM": 200513
+  },
+  {
+    "College, Branch": "E044CH Chemical",
+    "GM": 154322
+  },
+  {
+    "College, Branch": "E044CS Computers",
+    "GM": 39688
+  },
+  {
+    "College, Branch": "E044CY CS- Cyber\nSecurity",
+    "GM": 77899
+  },
+  {
+    "College, Branch": "E044DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 68891
+  },
+  {
+    "College, Branch": "E044EC Electronics",
+    "GM": 70119
+  },
+  {
+    "College, Branch": "E044ME Mechanical",
+    "GM": 181747
+  },
+  {
+    "College, Branch": "E045CA CS (AI, Machine\nLearning)",
+    "GM": 72117
+  },
+  {
+    "College, Branch": "E045CE Civil",
+    "GM": 196777
+  },
+  {
+    "College, Branch": "E045CS Computers",
+    "GM": 44261
+  },
+  {
+    "College, Branch": "E045DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 78576
+  },
+  {
+    "College, Branch": "E045EC Electronics",
+    "GM": 76726
+  },
+  {
+    "College, Branch": "E045EE Electrical",
+    "GM": 132437
+  },
+  {
+    "College, Branch": "E045IE Info.Science",
+    "GM": 69719
+  },
+  {
+    "College, Branch": "E045ME Mechanical",
+    "GM": 191416
+  },
+  {
+    "College, Branch": "E046CE Civil",
+    "GM": 191215
+  },
+  {
+    "College, Branch": "E046CS Computers",
+    "GM": 59416
+  },
+  {
+    "College, Branch": "E046EC Electronics",
+    "GM": 94814
+  },
+  {
+    "College, Branch": "E046ME Mechanical",
+    "GM": 76679
+  },
+  {
+    "College, Branch": "E047CA CS (AI, Machine\nLearning)",
+    "GM": 23935
+  },
+  {
+    "College, Branch": "E047CB Comp. Sc. and\nBus Sys.",
+    "GM": 37544
+  },
+  {
+    "College, Branch": "E047CE Civil",
+    "GM": 140620
+  },
+  {
+    "College, Branch": "E047CS Computers",
+    "GM": 15544
+  },
+  {
+    "College, Branch": "E047EC Electronics",
+    "GM": 28403
+  },
+  {
+    "College, Branch": "E047EE Electrical",
+    "GM": 58990
+  },
+  {
+    "College, Branch": "E047EI Elec. Inst.\nEngg",
+    "GM": 84551
+  },
+  {
+    "College, Branch": "E047IE Info.Science",
+    "GM": 22651
+  },
+  {
+    "College, Branch": "E048AD Artificial\nIntel, Data Sc",
+    "GM": 2148
+  },
+  {
+    "College, Branch": "E048AI Artificial\nIntelligence",
+    "GM": 2399
+  },
+  {
+    "College, Branch": "E048BT Bio Technology",
+    "GM": 14259
+  },
+  {
+    "College, Branch": "E048CB Comp. Sc. and\nBus Sys.",
+    "GM": 2882
+  },
+  {
+    "College, Branch": "E048CE Civil",
+    "GM": 51444
+  },
+  {
+    "College, Branch": "E048CH Chemical",
+    "GM": 20694
+  },
+  {
+    "College, Branch": "E048CS Computers",
+    "GM": 1027
+  },
+  {
+    "College, Branch": "E048DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 1559
+  },
+  {
+    "College, Branch": "E048EC Electronics",
+    "GM": 3605
+  },
+  {
+    "College, Branch": "E048EI Elec. Inst.\nEngg",
+    "GM": 10182
+  },
+  {
+    "College, Branch": "E048ET Elec.\nTelecommn. Engg.",
+    "GM": 5393
+  },
+  {
+    "College, Branch": "E048IC CS-IoT, Cyber\nSecurity",
+    "GM": 2368
+  },
+  {
+    "College, Branch": "E048IE Info.Science",
+    "GM": 1927
+  },
+  {
+    "College, Branch": "E048MD Med.Elect.",
+    "GM": 25271
+  },
+  {
+    "College, Branch": "E048ME Mechanical",
+    "GM": 27639
+  },
+  {
+    "College, Branch": "E048SE Aero Space\nEngg.",
+    "GM": 8163
+  },
+  {
+    "College, Branch": "E049AI Artificial\nIntelligence",
+    "GM": 27798
+  },
+  {
+    "College, Branch": "E049BT Bio Technology",
+    "GM": 88449
+  },
+  {
+    "College, Branch": "E049CE Civil",
+    "GM": 138329
+  },
+  {
+    "College, Branch": "E049CS Computers",
+    "GM": 19216
+  },
+  {
+    "College, Branch": "E049EC Electronics",
+    "GM": 27488
+  },
+  {
+    "College, Branch": "E049IE Info.Science",
+    "GM": 27243
+  },
+  {
+    "College, Branch": "E054CA CS (AI, Machine\nLearning)",
+    "GM": 73029
+  },
+  {
+    "College, Branch": "E054CE Civil",
+    "GM": 188867
+  },
+  {
+    "College, Branch": "E054CO Computer\nEngineering",
+    "GM": 89979
+  },
+  {
+    "College, Branch": "E054CS Computers",
+    "GM": 59332
+  },
+  {
+    "College, Branch": "E054EC Electronics",
+    "GM": 76630
+  },
+  {
+    "College, Branch": "E054ME Mechanical",
+    "GM": 191030
+  },
+  {
+    "College, Branch": "E055AI Artificial\nIntelligence",
+    "GM": 68271
+  },
+  {
+    "College, Branch": "E055BT Bio Technology",
+    "GM": 121295
+  },
+  {
+    "College, Branch": "E055CE Civil",
+    "GM": 172688
+  },
+  {
+    "College, Branch": "E055CS Computers",
+    "GM": 59058
+  },
+  {
+    "College, Branch": "E055EC Electronics",
+    "GM": 97262
+  },
+  {
+    "College, Branch": "E055IC CS-IoT, Cyber\nSecurity",
+    "GM": 106409
+  },
+  {
+    "College, Branch": "E055ME Mechanical",
+    "GM": 198747
+  },
+  {
+    "College, Branch": "E056EC Electronics",
+    "GM": 10165
+  },
+  {
+    "College, Branch": "E056EE Electrical",
+    "GM": 23527
+  },
+  {
+    "College, Branch": "E056ME Mechanical",
+    "GM": 62044
+  },
+  {
+    "College, Branch": "E057BT Bio Technology",
+    "GM": 28541
+  },
+  {
+    "College, Branch": "E057CB Comp. Sc. and\nBus Sys.",
+    "GM": 5334
+  },
+  {
+    "College, Branch": "E057CE Civil",
+    "GM": 89976
+  },
+  {
+    "College, Branch": "E057CS Computers",
+    "GM": 3063
+  },
+  {
+    "College, Branch": "E057CT Const. Tech.\nMgmt.",
+    "GM": 197465
+  },
+  {
+    "College, Branch": "E057EC Electronics",
+    "GM": 7263
+  },
+  {
+    "College, Branch": "E057IE Info.Science",
+    "GM": 3835
+  },
+  {
+    "College, Branch": "E057ME Mechanical",
+    "GM": 56359
+  },
+  {
+    "College, Branch": "E058CA CS (AI, Machine\nLearning)",
+    "GM": 22300
+  },
+  {
+    "College, Branch": "E058CB Comp. Sc. and\nBus Sys.",
+    "GM": 31190
+  },
+  {
+    "College, Branch": "E058CE Civil",
+    "GM": 127089
+  },
+  {
+    "College, Branch": "E058CS Computers",
+    "GM": 16230
+  },
+  {
+    "College, Branch": "E058DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 27404
+  },
+  {
+    "College, Branch": "E058EC Electronics",
+    "GM": 25571
+  },
+  {
+    "College, Branch": "E058EE Electrical",
+    "GM": 47299
+  },
+  {
+    "College, Branch": "E058IE Info.Science",
+    "GM": 18223
+  },
+  {
+    "College, Branch": "E059AI Artificial\nIntelligence",
+    "GM": 31385
+  },
+  {
+    "College, Branch": "E059CD Computer Sc.\nand Design",
+    "GM": 50981
+  },
+  {
+    "College, Branch": "E059CE Civil",
+    "GM": 199928
+  },
+  {
+    "College, Branch": "E059CR Ceramics",
+    "GM": 202836
+  },
+  {
+    "College, Branch": "E059CS Computers",
+    "GM": 24595
+  },
+  {
+    "College, Branch": "E059EC Electronics",
+    "GM": 57399
+  },
+  {
+    "College, Branch": "E059EE Electrical",
+    "GM": 75550
+  },
+  {
+    "College, Branch": "E059EI Elec. Inst.\nEngg",
+    "GM": 110145
+  },
+  {
+    "College, Branch": "E059IE Info.Science",
+    "GM": 39005
+  },
+  {
+    "College, Branch": "E059ME Mechanical",
+    "GM": 166056
+  },
+  {
+    "College, Branch": "E060AE Aeronaut.Engg",
+    "GM": 46265
+  },
+  {
+    "College, Branch": "E060AI Artificial\nIntelligence",
+    "GM": 15564
+  },
+  {
+    "College, Branch": "E060CB Comp. Sc. and\nBus Sys.",
+    "GM": 20483
+  },
+  {
+    "College, Branch": "E060CE Civil",
+    "GM": 115512
+  },
+  {
+    "College, Branch": "E060CS Computers",
+    "GM": 12920
+  },
+  {
+    "College, Branch": "E060EC Electronics",
+    "GM": 20643
+  },
+  {
+    "College, Branch": "E060IE Info.Science",
+    "GM": 14147
+  },
+  {
+    "College, Branch": "E061CE Civil",
+    "GM": 95725
+  },
+  {
+    "College, Branch": "E061CS Computers",
+    "GM": 18422
+  },
+  {
+    "College, Branch": "E061EC Electronics",
+    "GM": 29191
+  },
+  {
+    "College, Branch": "E061EE Electrical",
+    "GM": 52956
+  },
+  {
+    "College, Branch": "E061EI Elec. Inst.\nEngg",
+    "GM": 78378
+  },
+  {
+    "College, Branch": "E061IP Ind.Prodn.",
+    "GM": 202083
+  },
+  {
+    "College, Branch": "E061ME Mechanical",
+    "GM": 129391
+  },
+  {
+    "College, Branch": "E062AI Artificial\nIntelligence",
+    "GM": 31214
+  },
+  {
+    "College, Branch": "E062BT Bio Technology",
+    "GM": 86196
+  },
+  {
+    "College, Branch": "E062CB Comp. Sc. and\nBus Sys.",
+    "GM": 53060
+  },
+  {
+    "College, Branch": "E062CD Computer Sc.\nand Design",
+    "GM": 50240
+  },
+  {
+    "College, Branch": "E062CE Civil",
+    "GM": 141526
+  },
+  {
+    "College, Branch": "E062CH Chemical",
+    "GM": 123589
+  },
+  {
+    "College, Branch": "E062CS Computers",
+    "GM": 20450
+  },
+  {
+    "College, Branch": "E062DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 35752
+  },
+  {
+    "College, Branch": "E062EC Electronics",
+    "GM": 33528
+  },
+  {
+    "College, Branch": "E062EE Electrical",
+    "GM": 62269
+  },
+  {
+    "College, Branch": "E062IE Info.Science",
+    "GM": 27730
+  },
+  {
+    "College, Branch": "E062ME Mechanical",
+    "GM": 203232
+  },
+  {
+    "College, Branch": "E062TX Textiles",
+    "GM": 181648
+  },
+  {
+    "College, Branch": "E063CE Civil",
+    "GM": 199500
+  },
+  {
+    "College, Branch": "E063CS Computers",
+    "GM": 64195
+  },
+  {
+    "College, Branch": "E063EC Electronics",
+    "GM": 86310
+  },
+  {
+    "College, Branch": "E063EE Electrical",
+    "GM": 120288
+  },
+  {
+    "College, Branch": "E063ME Mechanical",
+    "GM": 180817
+  },
+  {
+    "College, Branch": "E064AI Artificial\nIntelligence",
+    "GM": 41174
+  },
+  {
+    "College, Branch": "E064CE Civil",
+    "GM": 202287
+  },
+  {
+    "College, Branch": "E064CS Computers",
+    "GM": 30186
+  },
+  {
+    "College, Branch": "E064DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 55017
+  },
+  {
+    "College, Branch": "E064EC Electronics",
+    "GM": 52281
+  },
+  {
+    "College, Branch": "E064EE Electrical",
+    "GM": 96682
+  },
+  {
+    "College, Branch": "E064IE Info.Science",
+    "GM": 36429
+  },
+  {
+    "College, Branch": "E064ME Mechanical",
+    "GM": 180086
+  },
+  {
+    "College, Branch": "E065AI Artificial\nIntelligence",
+    "GM": 32678
+  },
+  {
+    "College, Branch": "E065CE Civil",
+    "GM": 203067
+  },
+  {
+    "College, Branch": "E065CS Computers",
+    "GM": 20835
+  },
+  {
+    "College, Branch": "E065DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 37281
+  },
+  {
+    "College, Branch": "E065EC Electronics",
+    "GM": 39915
+  },
+  {
+    "College, Branch": "E065EE Electrical",
+    "GM": 75496
+  },
+  {
+    "College, Branch": "E065ET Elec.\nTelecommn. Engg.",
+    "GM": 79050
+  },
+  {
+    "College, Branch": "E065IE Info.Science",
+    "GM": 29384
+  },
+  {
+    "College, Branch": "E065ME Mechanical",
+    "GM": 196342
+  },
+  {
+    "College, Branch": "E065RI Robotics and AI",
+    "GM": 62694
+  },
+  {
+    "College, Branch": "E070AI Artificial\nIntelligence",
+    "GM": 78215
+  },
+  {
+    "College, Branch": "E070CE Civil",
+    "GM": 192185
+  },
+  {
+    "College, Branch": "E070CS Computers",
+    "GM": 58861
+  },
+  {
+    "College, Branch": "E070EC Electronics",
+    "GM": 86804
+  },
+  {
+    "College, Branch": "E070IE Info.Science",
+    "GM": 77383
+  },
+  {
+    "College, Branch": "E071CA CS (AI, Machine\nLearning)",
+    "GM": 16655
+  },
+  {
+    "College, Branch": "E071CE Civil",
+    "GM": 109139
+  },
+  {
+    "College, Branch": "E071CS Computers",
+    "GM": 11071
+  },
+  {
+    "College, Branch": "E071EC Electronics",
+    "GM": 20723
+  },
+  {
+    "College, Branch": "E071EE Electrical",
+    "GM": 30606
+  },
+  {
+    "College, Branch": "E071IE Info.Science",
+    "GM": 14689
+  },
+  {
+    "College, Branch": "E071ME Mechanical",
+    "GM": 94767
+  },
+  {
+    "College, Branch": "E075AI Artificial\nIntelligence",
+    "GM": 39627
+  },
+  {
+    "College, Branch": "E075CE Civil",
+    "GM": 203288
+  },
+  {
+    "College, Branch": "E075CF CS(Artificial\nIntel.)",
+    "GM": 47643
+  },
+  {
+    "College, Branch": "E075CS Computers",
+    "GM": 20977
+  },
+  {
+    "College, Branch": "E075DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 42986
+  },
+  {
+    "College, Branch": "E075EC Electronics",
+    "GM": 50503
+  },
+  {
+    "College, Branch": "E075EE Electrical",
+    "GM": 88217
+  },
+  {
+    "College, Branch": "E075ME Mechanical",
+    "GM": 202542
+  },
+  {
+    "College, Branch": "E076CA CS (AI, Machine\nLearning)",
+    "GM": 88183
+  },
+  {
+    "College, Branch": "E076CS Computers",
+    "GM": 51864
+  },
+  {
+    "College, Branch": "E076EC Electronics",
+    "GM": 96660
+  },
+  {
+    "College, Branch": "E076EE Electrical",
+    "GM": 142212
+  },
+  {
+    "College, Branch": "E077CE Civil",
+    "GM": 202410
+  },
+  {
+    "College, Branch": "E077CS Computers",
+    "GM": 25249
+  },
+  {
+    "College, Branch": "E077EC Electronics",
+    "GM": 43404
+  },
+  {
+    "College, Branch": "E077EE Electrical",
+    "GM": 71529
+  },
+  {
+    "College, Branch": "E077IE Info.Science",
+    "GM": 35452
+  },
+  {
+    "College, Branch": "E077ME Mechanical",
+    "GM": 201251
+  },
+  {
+    "College, Branch": "E078AI Artificial\nIntelligence",
+    "GM": 29607
+  },
+  {
+    "College, Branch": "E078BT Bio Technology",
+    "GM": 73913
+  },
+  {
+    "College, Branch": "E078CE Civil",
+    "GM": 201082
+  },
+  {
+    "College, Branch": "E078CS Computers",
+    "GM": 25465
+  },
+  {
+    "College, Branch": "E078EC Electronics",
+    "GM": 44227
+  },
+  {
+    "College, Branch": "E078EE Electrical",
+    "GM": 77726
+  },
+  {
+    "College, Branch": "E078IE Info.Science",
+    "GM": 32429
+  },
+  {
+    "College, Branch": "E078ME Mechanical",
+    "GM": 192299
+  },
+  {
+    "College, Branch": "E078MT Mechatronics",
+    "GM": 135032
+  },
+  {
+    "College, Branch": "E079AE Aeronaut.Engg",
+    "GM": 47834
+  },
+  {
+    "College, Branch": "E079AI Artificial\nIntelligence",
+    "GM": 22180
+  },
+  {
+    "College, Branch": "E079BT Bio Technology",
+    "GM": 61942
+  },
+  {
+    "College, Branch": "E079CE Civil",
+    "GM": 142375
+  },
+  {
+    "College, Branch": "E079CS Computers",
+    "GM": 15799
+  },
+  {
+    "College, Branch": "E079DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 23802
+  },
+  {
+    "College, Branch": "E079EC Electronics",
+    "GM": 25496
+  },
+  {
+    "College, Branch": "E079EE Electrical",
+    "GM": 56656
+  },
+  {
+    "College, Branch": "E079IE Info.Science",
+    "GM": 18999
+  },
+  {
+    "College, Branch": "E079ME Mechanical",
+    "GM": 130657
+  },
+  {
+    "College, Branch": "E079MT Mechatronics",
+    "GM": 101749
+  },
+  {
+    "College, Branch": "E081CE Civil",
+    "GM": 202516
+  },
+  {
+    "College, Branch": "E081CS Computers",
+    "GM": 73526
+  },
+  {
+    "College, Branch": "E081EC Electronics",
+    "GM": 84733
+  },
+  {
+    "College, Branch": "E081EE Electrical",
+    "GM": 113522
+  },
+  {
+    "College, Branch": "E081IE Info.Science",
+    "GM": 83405
+  },
+  {
+    "College, Branch": "E081ME Mechanical",
+    "GM": 198825
+  },
+  {
+    "College, Branch": "E082CA CS (AI, Machine\nLearning)",
+    "GM": 17248
+  },
+  {
+    "College, Branch": "E082CE Civil",
+    "GM": 176672
+  },
+  {
+    "College, Branch": "E082CS Computers",
+    "GM": 11394
+  },
+  {
+    "College, Branch": "E082EC Electronics",
+    "GM": 23310
+  },
+  {
+    "College, Branch": "E082EI Elec. Inst.\nEngg",
+    "GM": 51628
+  },
+  {
+    "College, Branch": "E082IE Info.Science",
+    "GM": 14867
+  },
+  {
+    "College, Branch": "E082ME Mechanical",
+    "GM": 149922
+  },
+  {
+    "College, Branch": "E082RA Robotics and\nAutomation",
+    "GM": 35979
+  },
+  {
+    "College, Branch": "E083AI Artificial\nIntelligence",
+    "GM": 50402
+  },
+  {
+    "College, Branch": "E083CS Computers",
+    "GM": 40164
+  },
+  {
+    "College, Branch": "E083EC Electronics",
+    "GM": 65641
+  },
+  {
+    "College, Branch": "E083IE Info.Science",
+    "GM": 50996
+  },
+  {
+    "College, Branch": "E083ME Mechanical",
+    "GM": 186194
+  },
+  {
+    "College, Branch": "E085CA CS (AI, Machine\nLearning)",
+    "GM": 57997
+  },
+  {
+    "College, Branch": "E085CE Civil",
+    "GM": 203104
+  },
+  {
+    "College, Branch": "E085CS Computers",
+    "GM": 40785
+  },
+  {
+    "College, Branch": "E085CY CS- Cyber\nSecurity",
+    "GM": 59011
+  },
+  {
+    "College, Branch": "E085EC Electronics",
+    "GM": 64026
+  },
+  {
+    "College, Branch": "E085IE Info.Science",
+    "GM": 54135
+  },
+  {
+    "College, Branch": "E085ME Mechanical",
+    "GM": 186171
+  },
+  {
+    "College, Branch": "E086AI Artificial\nIntelligence",
+    "GM": 58865
+  },
+  {
+    "College, Branch": "E086CS Computers",
+    "GM": 43551
+  },
+  {
+    "College, Branch": "E086EC Electronics",
+    "GM": 71868
+  },
+  {
+    "College, Branch": "E086EE Electrical",
+    "GM": 94664
+  },
+  {
+    "College, Branch": "E086IE Info.Science",
+    "GM": 54640
+  },
+  {
+    "College, Branch": "E086ME Mechanical",
+    "GM": 199143
+  },
+  {
+    "College, Branch": "E087AI Artificial\nIntelligence",
+    "GM": 44360
+  },
+  {
+    "College, Branch": "E087CE Civil",
+    "GM": 202193
+  },
+  {
+    "College, Branch": "E087CS Computers",
+    "GM": 36342
+  },
+  {
+    "College, Branch": "E087EC Electronics",
+    "GM": 62752
+  },
+  {
+    "College, Branch": "E087IE Info.Science",
+    "GM": 48469
+  },
+  {
+    "College, Branch": "E087ME Mechanical",
+    "GM": 197111
+  },
+  {
+    "College, Branch": "E088AI Artificial\nIntelligence",
+    "GM": 56581
+  },
+  {
+    "College, Branch": "E088CS Computers",
+    "GM": 39588
+  },
+  {
+    "College, Branch": "E088EC Electronics",
+    "GM": 59640
+  },
+  {
+    "College, Branch": "E088EE Electrical",
+    "GM": 94128
+  },
+  {
+    "College, Branch": "E088IE Info.Science",
+    "GM": 45234
+  },
+  {
+    "College, Branch": "E090CS Computers",
+    "GM": 44684
+  },
+  {
+    "College, Branch": "E090EC Electronics",
+    "GM": 73735
+  },
+  {
+    "College, Branch": "E091AI Artificial\nIntelligence",
+    "GM": 30285
+  },
+  {
+    "College, Branch": "E091CC Computer and\nComm. Engg.",
+    "GM": 53599
+  },
+  {
+    "College, Branch": "E091CD Computer Sc.\nand Design",
+    "GM": 37430
+  },
+  {
+    "College, Branch": "E091CS Computers",
+    "GM": 26369
+  },
+  {
+    "College, Branch": "E091EC Electronics",
+    "GM": 43939
+  },
+  {
+    "College, Branch": "E091IC CS-IoT, Cyber\nSecurity",
+    "GM": 39511
+  },
+  {
+    "College, Branch": "E091ME Mechanical",
+    "GM": 191487
+  },
+  {
+    "College, Branch": "E092AI Artificial\nIntelligence",
+    "GM": 47497
+  },
+  {
+    "College, Branch": "E092CE Civil",
+    "GM": 185870
+  },
+  {
+    "College, Branch": "E092CS Computers",
+    "GM": 37512
+  },
+  {
+    "College, Branch": "E092DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 56252
+  },
+  {
+    "College, Branch": "E092EC Electronics",
+    "GM": 70055
+  },
+  {
+    "College, Branch": "E092IE Info.Science",
+    "GM": 48682
+  },
+  {
+    "College, Branch": "E092ME Mechanical",
+    "GM": 197995
+  },
+  {
+    "College, Branch": "E093AD Artificial\nIntel, Data Sc",
+    "GM": 97695
+  },
+  {
+    "College, Branch": "E093CS Computers",
+    "GM": 53398
+  },
+  {
+    "College, Branch": "E093EC Electronics",
+    "GM": 104358
+  },
+  {
+    "College, Branch": "E093ES Electronics and\nComputer",
+    "GM": 153264
+  },
+  {
+    "College, Branch": "E093ME Mechanical",
+    "GM": 172594
+  },
+  {
+    "College, Branch": "E093ZC CSC",
+    "GM": 111995
+  },
+  {
+    "College, Branch": "E094AD Artificial\nIntel, Data Sc",
+    "GM": 82002
+  },
+  {
+    "College, Branch": "E094AI Artificial\nIntelligence",
+    "GM": 76214
+  },
+  {
+    "College, Branch": "E094CE Civil",
+    "GM": 173490
+  },
+  {
+    "College, Branch": "E094CS Computers",
+    "GM": 50890
+  },
+  {
+    "College, Branch": "E094CY CS- Cyber\nSecurity",
+    "GM": 93742
+  },
+  {
+    "College, Branch": "E094EC Electronics",
+    "GM": 82341
+  },
+  {
+    "College, Branch": "E094ME Mechanical",
+    "GM": 190250
+  },
+  {
+    "College, Branch": "E095AE Aeronaut.Engg",
+    "GM": 66288
+  },
+  {
+    "College, Branch": "E095AI Artificial\nIntelligence",
+    "GM": 31865
+  },
+  {
+    "College, Branch": "E095CA CS (AI, Machine\nLearning)",
+    "GM": 44985
+  },
+  {
+    "College, Branch": "E095CE Civil",
+    "GM": 194104
+  },
+  {
+    "College, Branch": "E095CS Computers",
+    "GM": 28949
+  },
+  {
+    "College, Branch": "E095DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 46104
+  },
+  {
+    "College, Branch": "E095EC Electronics",
+    "GM": 50153
+  },
+  {
+    "College, Branch": "E095EE Electrical",
+    "GM": 82115
+  },
+  {
+    "College, Branch": "E095IE Info.Science",
+    "GM": 38605
+  },
+  {
+    "College, Branch": "E095ME Mechanical",
+    "GM": 189268
+  },
+  {
+    "College, Branch": "E096AD Artificial\nIntel, Data Sc",
+    "GM": 43781
+  },
+  {
+    "College, Branch": "E096CA CS (AI, Machine\nLearning)",
+    "GM": 43381
+  },
+  {
+    "College, Branch": "E096CE Civil",
+    "GM": 199707
+  },
+  {
+    "College, Branch": "E096CS Computers",
+    "GM": 31447
+  },
+  {
+    "College, Branch": "E096EC Electronics",
+    "GM": 57859
+  },
+  {
+    "College, Branch": "E096IC CS-IoT, Cyber\nSecurity",
+    "GM": 60925
+  },
+  {
+    "College, Branch": "E096IE Info.Science",
+    "GM": 46798
+  },
+  {
+    "College, Branch": "E096ME Mechanical",
+    "GM": 175689
+  },
+  {
+    "College, Branch": "E097AD Artificial\nIntel, Data Sc",
+    "GM": 19400
+  },
+  {
+    "College, Branch": "E097AI Artificial\nIntelligence",
+    "GM": 18111
+  },
+  {
+    "College, Branch": "E097CA CS (AI, Machine\nLearning)",
+    "GM": 16845
+  },
+  {
+    "College, Branch": "E097CS Computers",
+    "GM": 11599
+  },
+  {
+    "College, Branch": "E097DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 18260
+  },
+  {
+    "College, Branch": "E097EC Electronics",
+    "GM": 24023
+  },
+  {
+    "College, Branch": "E097IE Info.Science",
+    "GM": 15584
+  },
+  {
+    "College, Branch": "E098AI Artificial\nIntelligence",
+    "GM": 31840
+  },
+  {
+    "College, Branch": "E098CD Computer Sc.\nand Design",
+    "GM": 52947
+  },
+  {
+    "College, Branch": "E098CE Civil",
+    "GM": 203059
+  },
+  {
+    "College, Branch": "E098CS Computers",
+    "GM": 25761
+  },
+  {
+    "College, Branch": "E098DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 36291
+  },
+  {
+    "College, Branch": "E098EC Electronics",
+    "GM": 50683
+  },
+  {
+    "College, Branch": "E098IE Info.Science",
+    "GM": 34361
+  },
+  {
+    "College, Branch": "E098ME Mechanical",
+    "GM": 202083
+  },
+  {
+    "College, Branch": "E099AI Artificial\nIntelligence",
+    "GM": 14504
+  },
+  {
+    "College, Branch": "E099CS Computers",
+    "GM": 9034
+  },
+  {
+    "College, Branch": "E099DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 15764
+  },
+  {
+    "College, Branch": "E099EC Electronics",
+    "GM": 19195
+  },
+  {
+    "College, Branch": "E099EE Electrical",
+    "GM": 47204
+  },
+  {
+    "College, Branch": "E099IE Info.Science",
+    "GM": 11159
+  },
+  {
+    "College, Branch": "E099ME Mechanical",
+    "GM": 99090
+  },
+  {
+    "College, Branch": "E100AI Artificial\nIntelligence",
+    "GM": 58478
+  },
+  {
+    "College, Branch": "E100CE Civil",
+    "GM": 191073
+  },
+  {
+    "College, Branch": "E100CS Computers",
+    "GM": 52074
+  },
+  {
+    "College, Branch": "E100DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 68214
+  },
+  {
+    "College, Branch": "E100EC Electronics",
+    "GM": 74418
+  },
+  {
+    "College, Branch": "E100IE Info.Science",
+    "GM": 59025
+  },
+  {
+    "College, Branch": "E100ME Mechanical",
+    "GM": 189661
+  },
+  {
+    "College, Branch": "E101AD Artificial\nIntel, Data Sc",
+    "GM": 53368
+  },
+  {
+    "College, Branch": "E101CE Civil",
+    "GM": 203000
+  },
+  {
+    "College, Branch": "E101CS Computers",
+    "GM": 35956
+  },
+  {
+    "College, Branch": "E101EC Electronics",
+    "GM": 62721
+  },
+  {
+    "College, Branch": "E101EE Electrical",
+    "GM": 99068
+  },
+  {
+    "College, Branch": "E101IE Info.Science",
+    "GM": 44305
+  },
+  {
+    "College, Branch": "E101ME Mechanical",
+    "GM": 199950
+  },
+  {
+    "College, Branch": "E102AD Artificial\nIntel, Data Sc",
+    "GM": 39699
+  },
+  {
+    "College, Branch": "E102CA CS (AI, Machine\nLearning)",
+    "GM": 42976
+  },
+  {
+    "College, Branch": "E102CE Civil",
+    "GM": 198360
+  },
+  {
+    "College, Branch": "E102CS Computers",
+    "GM": 28212
+  },
+  {
+    "College, Branch": "E102EC Electronics",
+    "GM": 53201
+  },
+  {
+    "College, Branch": "E102EE Electrical",
+    "GM": 76688
+  },
+  {
+    "College, Branch": "E102IE Info.Science",
+    "GM": 37268
+  },
+  {
+    "College, Branch": "E102ME Mechanical",
+    "GM": 184633
+  },
+  {
+    "College, Branch": "E103AD Artificial\nIntel, Data Sc",
+    "GM": 24170
+  },
+  {
+    "College, Branch": "E103AE Aeronaut.Engg",
+    "GM": 72904
+  },
+  {
+    "College, Branch": "E103AI Artificial\nIntelligence",
+    "GM": 22915
+  },
+  {
+    "College, Branch": "E103CA CS (AI, Machine\nLearning)",
+    "GM": 22621
+  },
+  {
+    "College, Branch": "E103CE Civil",
+    "GM": 202194
+  },
+  {
+    "College, Branch": "E103CS Computers",
+    "GM": 17308
+  },
+  {
+    "College, Branch": "E103EC Electronics",
+    "GM": 29415
+  },
+  {
+    "College, Branch": "E103EE Electrical",
+    "GM": 61908
+  },
+  {
+    "College, Branch": "E103IE Info.Science",
+    "GM": 21956
+  },
+  {
+    "College, Branch": "E103ME Mechanical",
+    "GM": 202431
+  },
+  {
+    "College, Branch": "E104CA CS (AI, Machine\nLearning)",
+    "GM": 52627
+  },
+  {
+    "College, Branch": "E104CE Civil",
+    "GM": 196928
+  },
+  {
+    "College, Branch": "E104CS Computers",
+    "GM": 38726
+  },
+  {
+    "College, Branch": "E104DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 60577
+  },
+  {
+    "College, Branch": "E104EC Electronics",
+    "GM": 63490
+  },
+  {
+    "College, Branch": "E104IE Info.Science",
+    "GM": 45124
+  },
+  {
+    "College, Branch": "E105AD Artificial\nIntel, Data Sc",
+    "GM": 10580
+  },
+  {
+    "College, Branch": "E105AE Aeronaut.Engg",
+    "GM": 39997
+  },
+  {
+    "College, Branch": "E105AI Artificial\nIntelligence",
+    "GM": 10517
+  },
+  {
+    "College, Branch": "E105CB Comp. Sc. and\nBus Sys.",
+    "GM": 13056
+  },
+  {
+    "College, Branch": "E105CE Civil",
+    "GM": 105163
+  },
+  {
+    "College, Branch": "E105CS Computers",
+    "GM": 7145
+  },
+  {
+    "College, Branch": "E105EC Electronics",
+    "GM": 15276
+  },
+  {
+    "College, Branch": "E105EE Electrical",
+    "GM": 33009
+  },
+  {
+    "College, Branch": "E105EV EC  Engg(VLSI\nDesign)",
+    "GM": 33453
+  },
+  {
+    "College, Branch": "E105IE Info.Science",
+    "GM": 10183
+  },
+  {
+    "College, Branch": "E105ME Mechanical",
+    "GM": 76608
+  },
+  {
+    "College, Branch": "E106AD Artificial\nIntel, Data Sc",
+    "GM": 47906
+  },
+  {
+    "College, Branch": "E106AI Artificial\nIntelligence",
+    "GM": 45179
+  },
+  {
+    "College, Branch": "E106CA CS (AI, Machine\nLearning)",
+    "GM": 51814
+  },
+  {
+    "College, Branch": "E106CE Civil",
+    "GM": 197403
+  },
+  {
+    "College, Branch": "E106CS Computers",
+    "GM": 34318
+  },
+  {
+    "College, Branch": "E106EC Electronics",
+    "GM": 64301
+  },
+  {
+    "College, Branch": "E106EE Electrical",
+    "GM": 92656
+  },
+  {
+    "College, Branch": "E106IC CS-IoT, Cyber\nSecurity",
+    "GM": 68277
+  },
+  {
+    "College, Branch": "E106IE Info.Science",
+    "GM": 42396
+  },
+  {
+    "College, Branch": "E106ME Mechanical",
+    "GM": 197244
+  },
+  {
+    "College, Branch": "E107AI Artificial\nIntelligence",
+    "GM": 13996
+  },
+  {
+    "College, Branch": "E107CS Computers",
+    "GM": 9008
+  },
+  {
+    "College, Branch": "E107EC Electronics",
+    "GM": 17649
+  },
+  {
+    "College, Branch": "E107EE Electrical",
+    "GM": 40672
+  },
+  {
+    "College, Branch": "E107IE Info.Science",
+    "GM": 10401
+  },
+  {
+    "College, Branch": "E107ME Mechanical",
+    "GM": 109590
+  },
+  {
+    "College, Branch": "E108BT Bio Technology",
+    "GM": 81439
+  },
+  {
+    "College, Branch": "E108CE Civil",
+    "GM": 199142
+  },
+  {
+    "College, Branch": "E108CS Computers",
+    "GM": 21522
+  },
+  {
+    "College, Branch": "E108EC Electronics",
+    "GM": 36730
+  },
+  {
+    "College, Branch": "E108EE Electrical",
+    "GM": 99101
+  },
+  {
+    "College, Branch": "E108IE Info.Science",
+    "GM": 25708
+  },
+  {
+    "College, Branch": "E108ME Mechanical",
+    "GM": 201310
+  },
+  {
+    "College, Branch": "E109AI Artificial\nIntelligence",
+    "GM": 61693
+  },
+  {
+    "College, Branch": "E109CE Civil",
+    "GM": 201445
+  },
+  {
+    "College, Branch": "E109CS Computers",
+    "GM": 56468
+  },
+  {
+    "College, Branch": "E109EC Electronics",
+    "GM": 77838
+  },
+  {
+    "College, Branch": "E109IE Info.Science",
+    "GM": 66016
+  },
+  {
+    "College, Branch": "E109ME Mechanical",
+    "GM": 148353
+  },
+  {
+    "College, Branch": "E111CE Civil",
+    "GM": 176833
+  },
+  {
+    "College, Branch": "E111CF CS(Artificial\nIntel.)",
+    "GM": 47194
+  },
+  {
+    "College, Branch": "E111CS Computers",
+    "GM": 37537
+  },
+  {
+    "College, Branch": "E111CY CS- Cyber\nSecurity",
+    "GM": 60932
+  },
+  {
+    "College, Branch": "E111DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 56580
+  },
+  {
+    "College, Branch": "E111EC Electronics",
+    "GM": 67518
+  },
+  {
+    "College, Branch": "E111IE Info.Science",
+    "GM": 42543
+  },
+  {
+    "College, Branch": "E111ME Mechanical",
+    "GM": 198556
+  },
+  {
+    "College, Branch": "E112AI Artificial\nIntelligence",
+    "GM": 64395
+  },
+  {
+    "College, Branch": "E112CS Computers",
+    "GM": 47375
+  },
+  {
+    "College, Branch": "E112EC Electronics",
+    "GM": 70910
+  },
+  {
+    "College, Branch": "E112EV EC  Engg(VLSI\nDesign)",
+    "GM": 114136
+  },
+  {
+    "College, Branch": "E112IE Info.Science",
+    "GM": 55251
+  },
+  {
+    "College, Branch": "E112ME Mechanical",
+    "GM": 161260
+  },
+  {
+    "College, Branch": "E113AD Artificial\nIntel, Data Sc",
+    "GM": 64323
+  },
+  {
+    "College, Branch": "E113AI Artificial\nIntelligence",
+    "GM": 62813
+  },
+  {
+    "College, Branch": "E113CE Civil",
+    "GM": 196166
+  },
+  {
+    "College, Branch": "E113CS Computers",
+    "GM": 53781
+  },
+  {
+    "College, Branch": "E113CY CS- Cyber\nSecurity",
+    "GM": 68236
+  },
+  {
+    "College, Branch": "E113EC Electronics",
+    "GM": 77812
+  },
+  {
+    "College, Branch": "E113IE Info.Science",
+    "GM": 60549
+  },
+  {
+    "College, Branch": "E113ME Mechanical",
+    "GM": 173939
+  },
+  {
+    "College, Branch": "E114AI Artificial\nIntelligence",
+    "GM": 46702
+  },
+  {
+    "College, Branch": "E114BT Bio Technology",
+    "GM": 106314
+  },
+  {
+    "College, Branch": "E114CE Civil",
+    "GM": 160431
+  },
+  {
+    "College, Branch": "E114CS Computers",
+    "GM": 27244
+  },
+  {
+    "College, Branch": "E114EC Electronics",
+    "GM": 42665
+  },
+  {
+    "College, Branch": "E114EE Electrical",
+    "GM": 79752
+  },
+  {
+    "College, Branch": "E114IE Info.Science",
+    "GM": 33363
+  },
+  {
+    "College, Branch": "E114ME Mechanical",
+    "GM": 200733
+  },
+  {
+    "College, Branch": "E114RA Robotics and\nAutomation",
+    "GM": 104499
+  },
+  {
+    "College, Branch": "E115AI Artificial\nIntelligence",
+    "GM": 20566
+  },
+  {
+    "College, Branch": "E115CE Civil",
+    "GM": 200582
+  },
+  {
+    "College, Branch": "E115CS Computers",
+    "GM": 15434
+  },
+  {
+    "College, Branch": "E115DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 21405
+  },
+  {
+    "College, Branch": "E115EC Electronics",
+    "GM": 25674
+  },
+  {
+    "College, Branch": "E115EE Electrical",
+    "GM": 60677
+  },
+  {
+    "College, Branch": "E115IE Info.Science",
+    "GM": 19058
+  },
+  {
+    "College, Branch": "E115ME Mechanical",
+    "GM": 189575
+  },
+  {
+    "College, Branch": "E116CA CS (AI, Machine\nLearning)",
+    "GM": 83895
+  },
+  {
+    "College, Branch": "E116CS Computers",
+    "GM": 60275
+  },
+  {
+    "College, Branch": "E116DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 87890
+  },
+  {
+    "College, Branch": "E116EC Electronics",
+    "GM": 80310
+  },
+  {
+    "College, Branch": "E118AD Artificial\nIntel, Data Sc",
+    "GM": 13837
+  },
+  {
+    "College, Branch": "E118CA CS (AI, Machine\nLearning)",
+    "GM": 14193
+  },
+  {
+    "College, Branch": "E118CE Civil",
+    "GM": 153918
+  },
+  {
+    "College, Branch": "E118CS Computers",
+    "GM": 8222
+  },
+  {
+    "College, Branch": "E118CY CS- Cyber\nSecurity",
+    "GM": 15274
+  },
+  {
+    "College, Branch": "E118DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 15021
+  },
+  {
+    "College, Branch": "E118EC Electronics",
+    "GM": 17104
+  },
+  {
+    "College, Branch": "E118EE Electrical",
+    "GM": 39532
+  },
+  {
+    "College, Branch": "E118IE Info.Science",
+    "GM": 11410
+  },
+  {
+    "College, Branch": "E118ME Mechanical",
+    "GM": 127975
+  },
+  {
+    "College, Branch": "E119CS Computers",
+    "GM": 47544
+  },
+  {
+    "College, Branch": "E119EC Electronics",
+    "GM": 86666
+  },
+  {
+    "College, Branch": "E119ME Mechanical",
+    "GM": 115773
+  },
+  {
+    "College, Branch": "E120CS Computers",
+    "GM": 71705
+  },
+  {
+    "College, Branch": "E120EC Electronics",
+    "GM": 94300
+  },
+  {
+    "College, Branch": "E120IE Info.Science",
+    "GM": 82270
+  },
+  {
+    "College, Branch": "E121 AI Artificial\nIntelligence",
+    "GM": 37299
+  },
+  {
+    "College, Branch": "E121 CS Computers",
+    "GM": 38250
+  },
+  {
+    "College, Branch": "E121 DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 55373
+  },
+  {
+    "College, Branch": "E121 EC Electronics",
+    "GM": 77349
+  },
+  {
+    "College, Branch": "E123 AI Artificial\nIntelligence",
+    "GM": 50301
+  },
+  {
+    "College, Branch": "E123 CB Comp. Sc. and\nBus Sys.",
+    "GM": 81917
+  },
+  {
+    "College, Branch": "E123 CD Computer Sc.\nand Design",
+    "GM": 80646
+  },
+  {
+    "College, Branch": "E123 CS Computers",
+    "GM": 34330
+  },
+  {
+    "College, Branch": "E123 EC Electronics",
+    "GM": 59718
+  },
+  {
+    "College, Branch": "E123 EIE Info.Science",
+    "GM": 44994
+  },
+  {
+    "College, Branch": "E123 ME Mechanical",
+    "GM": 163190
+  },
+  {
+    "College, Branch": "E124 BM Bio Medical",
+    "GM": 99131
+  },
+  {
+    "College, Branch": "E124CS Computers",
+    "GM": 49103
+  },
+  {
+    "College, Branch": "E124EC Electronics",
+    "GM": 71567
+  },
+  {
+    "College, Branch": "E124EE Electrical",
+    "GM": 104451
+  },
+  {
+    "College, Branch": "E124ME Mechanical",
+    "GM": 128941
+  },
+  {
+    "College, Branch": "E126AI Artificial\nIntelligence",
+    "GM": 8960
+  },
+  {
+    "College, Branch": "E126CB Comp. Sc. and\nBus Sys.",
+    "GM": 9987
+  },
+  {
+    "College, Branch": "E126CE Civil",
+    "GM": 100416
+  },
+  {
+    "College, Branch": "E126CS Computers",
+    "GM": 5164
+  },
+  {
+    "College, Branch": "E126EC Electronics",
+    "GM": 12300
+  },
+  {
+    "College, Branch": "E126EE Electrical",
+    "GM": 28932
+  },
+  {
+    "College, Branch": "E126ET Elec.\nTelecommn. Engg.",
+    "GM": 21910
+  },
+  {
+    "College, Branch": "E126IE Info.Science",
+    "GM": 7693
+  },
+  {
+    "College, Branch": "E126ME Mechanical",
+    "GM": 66969
+  },
+  {
+    "College, Branch": "E127AI Artificial\nIntelligence",
+    "GM": 69154
+  },
+  {
+    "College, Branch": "E127CS Computers",
+    "GM": 63806
+  },
+  {
+    "College, Branch": "E127EC Electronics",
+    "GM": 73146
+  },
+  {
+    "College, Branch": "E127IE Info.Science",
+    "GM": 70048
+  },
+  {
+    "College, Branch": "E128AD Artificial\nIntel, Data Sc",
+    "GM": 44722
+  },
+  {
+    "College, Branch": "E128BB B Tech in EC",
+    "GM": 48498
+  },
+  {
+    "College, Branch": "E128BJ B Tech in EE",
+    "GM": 96829
+  },
+  {
+    "College, Branch": "E128BK B Tech in EN",
+    "GM": 199396
+  },
+  {
+    "College, Branch": "E128BP B Tech in CE",
+    "GM": 202682
+  },
+  {
+    "College, Branch": "E128BW B Tech in CS",
+    "GM": 31510
+  },
+  {
+    "College, Branch": "E128CD Computer Sc.\nand Design",
+    "GM": 57945
+  },
+  {
+    "College, Branch": "E128DB B Tech in ME",
+    "GM": 199944
+  },
+  {
+    "College, Branch": "E129AI Artificial\nIntelligence",
+    "GM": 19405
+  },
+  {
+    "College, Branch": "E129CB Comp. Sc. and\nBus Sys.",
+    "GM": 27123
+  },
+  {
+    "College, Branch": "E129CE Civil",
+    "GM": 201246
+  },
+  {
+    "College, Branch": "E129CS Computers",
+    "GM": 15972
+  },
+  {
+    "College, Branch": "E129DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 20210
+  },
+  {
+    "College, Branch": "E129EC Electronics",
+    "GM": 35078
+  },
+  {
+    "College, Branch": "E129EE Electrical",
+    "GM": 78141
+  },
+  {
+    "College, Branch": "E129ME Mechanical",
+    "GM": 189293
+  },
+  {
+    "College, Branch": "E130AD Artificial\nIntel, Data Sc",
+    "GM": 69237
+  },
+  {
+    "College, Branch": "E130CE Civil",
+    "GM": 196273
+  },
+  {
+    "College, Branch": "E130CS Computers",
+    "GM": 58951
+  },
+  {
+    "College, Branch": "E130EC Electronics",
+    "GM": 73658
+  },
+  {
+    "College, Branch": "E130EE Electrical",
+    "GM": 114997
+  },
+  {
+    "College, Branch": "E130IE Info.Science",
+    "GM": 68268
+  },
+  {
+    "College, Branch": "E132CE Civil",
+    "GM": 195092
+  },
+  {
+    "College, Branch": "E132CS Computers",
+    "GM": 63604
+  },
+  {
+    "College, Branch": "E132EC Electronics",
+    "GM": 78198
+  },
+  {
+    "College, Branch": "E132EE Electrical",
+    "GM": 115729
+  },
+  {
+    "College, Branch": "E133AD Artificial\nIntel, Data Sc",
+    "GM": 27734
+  },
+  {
+    "College, Branch": "E133CA CS (AI, Machine\nLearning)",
+    "GM": 24282
+  },
+  {
+    "College, Branch": "E133CS Computers",
+    "GM": 17421
+  },
+  {
+    "College, Branch": "E133EC Electronics",
+    "GM": 28580
+  },
+  {
+    "College, Branch": "E133EE Electrical",
+    "GM": 46911
+  },
+  {
+    "College, Branch": "E133IE Info.Science",
+    "GM": 21092
+  },
+  {
+    "College, Branch": "E134CE Civil",
+    "GM": 203140
+  },
+  {
+    "College, Branch": "E134CS Computers",
+    "GM": 38840
+  },
+  {
+    "College, Branch": "E134EC Electronics",
+    "GM": 59133
+  },
+  {
+    "College, Branch": "E134EE Electrical",
+    "GM": 103725
+  },
+  {
+    "College, Branch": "E134IE Info.Science",
+    "GM": 60788
+  },
+  {
+    "College, Branch": "E135CA CS (AI, Machine\nLearning)",
+    "GM": 46145
+  },
+  {
+    "College, Branch": "E135CE Civil",
+    "GM": 181653
+  },
+  {
+    "College, Branch": "E135CS Computers",
+    "GM": 30324
+  },
+  {
+    "College, Branch": "E135EC Electronics",
+    "GM": 51868
+  },
+  {
+    "College, Branch": "E135EE Electrical",
+    "GM": 80686
+  },
+  {
+    "College, Branch": "E135ME Mechanical",
+    "GM": 203138
+  },
+  {
+    "College, Branch": "E136AI Artificial\nIntelligence",
+    "GM": 88055
+  },
+  {
+    "College, Branch": "E136CE Civil",
+    "GM": 191587
+  },
+  {
+    "College, Branch": "E136CS Computers",
+    "GM": 73911
+  },
+  {
+    "College, Branch": "E136DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 105636
+  },
+  {
+    "College, Branch": "E136EC Electronics",
+    "GM": 100371
+  },
+  {
+    "College, Branch": "E136IE Info.Science",
+    "GM": 89041
+  },
+  {
+    "College, Branch": "E139AI Artificial\nIntelligence",
+    "GM": 72108
+  },
+  {
+    "College, Branch": "E139CS Computers",
+    "GM": 60627
+  },
+  {
+    "College, Branch": "E139CY CS- Cyber\nSecurity",
+    "GM": 78289
+  },
+  {
+    "College, Branch": "E139DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 77197
+  },
+  {
+    "College, Branch": "E139EC Electronics",
+    "GM": 81878
+  },
+  {
+    "College, Branch": "E139RO Auto. And\nRobot.",
+    "GM": 109899
+  },
+  {
+    "College, Branch": "E141AM B Tech in AM",
+    "GM": 4855
+  },
+  {
+    "College, Branch": "E141BB B Tech in EC",
+    "GM": 7471
+  },
+  {
+    "College, Branch": "E141BW B Tech in CS",
+    "GM": 4370
+  },
+  {
+    "College, Branch": "E142AI Artificial\nIntelligence",
+    "GM": 46813
+  },
+  {
+    "College, Branch": "E142CE Civil",
+    "GM": 195962
+  },
+  {
+    "College, Branch": "E142CS Computers",
+    "GM": 33547
+  },
+  {
+    "College, Branch": "E142EC Electronics",
+    "GM": 47260
+  },
+  {
+    "College, Branch": "E142IE Info.Science",
+    "GM": 39590
+  },
+  {
+    "College, Branch": "E142ME Mechanical",
+    "GM": 201076
+  },
+  {
+    "College, Branch": "E144AD Artificial\nIntel, Data Sc",
+    "GM": 63121
+  },
+  {
+    "College, Branch": "E144AE Aeronaut.Engg",
+    "GM": 120772
+  },
+  {
+    "College, Branch": "E144AI Artificial\nIntelligence",
+    "GM": 54692
+  },
+  {
+    "College, Branch": "E144AU Automobile",
+    "GM": 195816
+  },
+  {
+    "College, Branch": "E144CB Comp. Sc. and\nBus Sys.",
+    "GM": 99374
+  },
+  {
+    "College, Branch": "E144CD Computer Sc.\nand Design",
+    "GM": 86878
+  },
+  {
+    "College, Branch": "E144CS Computers",
+    "GM": 41500
+  },
+  {
+    "College, Branch": "E144EC Electronics",
+    "GM": 82555
+  },
+  {
+    "College, Branch": "E144EE Electrical",
+    "GM": 133907
+  },
+  {
+    "College, Branch": "E144IE Info.Science",
+    "GM": 52460
+  },
+  {
+    "College, Branch": "E144MR Marine\nEngineering",
+    "GM": 97134
+  },
+  {
+    "College, Branch": "E145AI Artificial\nIntelligence",
+    "GM": 38905
+  },
+  {
+    "College, Branch": "E145CD Computer Sc.\nand Design",
+    "GM": 61392
+  },
+  {
+    "College, Branch": "E145CE Civil",
+    "GM": 195935
+  },
+  {
+    "College, Branch": "E145CS Computers",
+    "GM": 29478
+  },
+  {
+    "College, Branch": "E145EC Electronics",
+    "GM": 52205
+  },
+  {
+    "College, Branch": "E145EE Electrical",
+    "GM": 85733
+  },
+  {
+    "College, Branch": "E145IC CS-IoT, Cyber\nSecurity",
+    "GM": 56507
+  },
+  {
+    "College, Branch": "E145IE Info.Science",
+    "GM": 35257
+  },
+  {
+    "College, Branch": "E145RA Robotics and\nAutomation",
+    "GM": 100756
+  },
+  {
+    "College, Branch": "E146AD Artificial\nIntel, Data Sc",
+    "GM": 84873
+  },
+  {
+    "College, Branch": "E146AE Aeronaut.Engg",
+    "GM": 123866
+  },
+  {
+    "College, Branch": "E146CA CS (AI, Machine\nLearning)",
+    "GM": 82116
+  },
+  {
+    "College, Branch": "E146CE Civil",
+    "GM": 192401
+  },
+  {
+    "College, Branch": "E146CS Computers",
+    "GM": 70993
+  },
+  {
+    "College, Branch": "E146EC Electronics",
+    "GM": 101980
+  },
+  {
+    "College, Branch": "E146IE Info.Science",
+    "GM": 82288
+  },
+  {
+    "College, Branch": "E147AI Artificial\nIntelligence",
+    "GM": 57423
+  },
+  {
+    "College, Branch": "E147CS Computers",
+    "GM": 48477
+  },
+  {
+    "College, Branch": "E147DC Data Sciences",
+    "GM": 76508
+  },
+  {
+    "College, Branch": "E147EC Electronics",
+    "GM": 66220
+  },
+  {
+    "College, Branch": "E147IC CS-IoT, Cyber\nSecurity",
+    "GM": 83311
+  },
+  {
+    "College, Branch": "E147IE Info.Science",
+    "GM": 59971
+  },
+  {
+    "College, Branch": "E149AI Artificial\nIntelligence",
+    "GM": 29409
+  },
+  {
+    "College, Branch": "E149CE Civil",
+    "GM": 198093
+  },
+  {
+    "College, Branch": "E149CS Computers",
+    "GM": 21920
+  },
+  {
+    "College, Branch": "E149EC Electronics",
+    "GM": 43079
+  },
+  {
+    "College, Branch": "E149EE Electrical",
+    "GM": 80881
+  },
+  {
+    "College, Branch": "E149IC CS-IoT, Cyber\nSecurity",
+    "GM": 37663
+  },
+  {
+    "College, Branch": "E149IE Info.Science",
+    "GM": 29636
+  },
+  {
+    "College, Branch": "E149ME Mechanical",
+    "GM": 202118
+  },
+  {
+    "College, Branch": "E150AI Artificial\nIntelligence",
+    "GM": 41875
+  },
+  {
+    "College, Branch": "E150CD Computer Sc.\nand Design",
+    "GM": 68921
+  },
+  {
+    "College, Branch": "E150CE Civil",
+    "GM": 198129
+  },
+  {
+    "College, Branch": "CO Computer\nEngineering",
+    "GM": 78747
+  },
+  {
+    "College, Branch": "E150CS Computers",
+    "GM": 30766
+  },
+  {
+    "College, Branch": "E150DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 59740
+  },
+  {
+    "College, Branch": "E150EC Electronics",
+    "GM": 54730
+  },
+  {
+    "College, Branch": "E150EE Electrical",
+    "GM": 94940
+  },
+  {
+    "College, Branch": "E150IE Info.Science",
+    "GM": 37195
+  },
+  {
+    "College, Branch": "E151AE Aeronaut.Engg",
+    "GM": 78006
+  },
+  {
+    "College, Branch": "E151AI Artificial\nIntelligence",
+    "GM": 30500
+  },
+  {
+    "College, Branch": "E151CA CS (AI, Machine\nLearning)",
+    "GM": 30622
+  },
+  {
+    "College, Branch": "E151CS Computers",
+    "GM": 21392
+  },
+  {
+    "College, Branch": "E151EC Electronics",
+    "GM": 48838
+  },
+  {
+    "College, Branch": "E151IC CS-IoT, Cyber\nSecurity",
+    "GM": 36436
+  },
+  {
+    "College, Branch": "E151IE Info.Science",
+    "GM": 30618
+  },
+  {
+    "College, Branch": "E151ME Mechanical",
+    "GM": 181389
+  },
+  {
+    "College, Branch": "E151MT Mechatronics",
+    "GM": 202612
+  },
+  {
+    "College, Branch": "E152AD Artificial\nIntel, Data Sc",
+    "GM": 48878
+  },
+  {
+    "College, Branch": "E152CE Civil",
+    "GM": 172594
+  },
+  {
+    "College, Branch": "E152CS Computers",
+    "GM": 36249
+  },
+  {
+    "College, Branch": "E152EC Electronics",
+    "GM": 71292
+  },
+  {
+    "College, Branch": "E152EE Electrical",
+    "GM": 111818
+  },
+  {
+    "College, Branch": "E152IE Info.Science",
+    "GM": 45432
+  },
+  {
+    "College, Branch": "E153AD Artificial\nIntel, Data Sc",
+    "GM": 65623
+  },
+  {
+    "College, Branch": "E153AI Artificial\nIntelligence",
+    "GM": 66092
+  },
+  {
+    "College, Branch": "E153CE Civil",
+    "GM": 192412
+  },
+  {
+    "College, Branch": "E153CS Computers",
+    "GM": 59335
+  },
+  {
+    "College, Branch": "E153EA Agriculture\nEngineering",
+    "GM": 98911
+  },
+  {
+    "College, Branch": "E153EC Electronics",
+    "GM": 80641
+  },
+  {
+    "College, Branch": "E153IC CS-IoT, Cyber\nSecurity",
+    "GM": 88322
+  },
+  {
+    "College, Branch": "E153IE Info.Science",
+    "GM": 68149
+  },
+  {
+    "College, Branch": "E153ME Mechanical",
+    "GM": 189841
+  },
+  {
+    "College, Branch": "E154CE Civil",
+    "GM": 154972
+  },
+  {
+    "College, Branch": "E154CS Computers",
+    "GM": 48192
+  },
+  {
+    "College, Branch": "E154EC Electronics",
+    "GM": 79427
+  },
+  {
+    "College, Branch": "E154ME Mechanical",
+    "GM": 203133
+  },
+  {
+    "College, Branch": "E155CE Civil",
+    "GM": 119139
+  },
+  {
+    "College, Branch": "E155CS Computers",
+    "GM": 25605
+  },
+  {
+    "College, Branch": "E155EC Electronics",
+    "GM": 40944
+  },
+  {
+    "College, Branch": "E155ME Mechanical",
+    "GM": 202255
+  },
+  {
+    "College, Branch": "E156CE Civil",
+    "GM": 200593
+  },
+  {
+    "College, Branch": "E156CS Computers",
+    "GM": 42735
+  },
+  {
+    "College, Branch": "E156EC Electronics",
+    "GM": 67189
+  },
+  {
+    "College, Branch": "E156ME Mechanical",
+    "GM": 197876
+  },
+  {
+    "College, Branch": "E157CE Civil",
+    "GM": 198831
+  },
+  {
+    "College, Branch": "E157CS Computers",
+    "GM": 48371
+  },
+  {
+    "College, Branch": "E157EC Electronics",
+    "GM": 75464
+  },
+  {
+    "College, Branch": "E157MM Mechanical,\nSmart Manf.",
+    "GM": 194950
+  },
+  {
+    "College, Branch": "E158CA CS (AI, Machine\nLearning)",
+    "GM": 36508
+  },
+  {
+    "College, Branch": "E158CB Comp. Sc. and\nBus Sys.",
+    "GM": 59218
+  },
+  {
+    "College, Branch": "E158CE Civil",
+    "GM": 199548
+  },
+  {
+    "College, Branch": "E158CF CS(Artificial\nIntel.)",
+    "GM": 45134
+  },
+  {
+    "College, Branch": "E158CO Computer\nEngineering",
+    "GM": 73202
+  },
+  {
+    "College, Branch": "E158CS Computers",
+    "GM": 27291
+  },
+  {
+    "College, Branch": "E158DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 43371
+  },
+  {
+    "College, Branch": "E158EC Electronics",
+    "GM": 39012
+  },
+  {
+    "College, Branch": "E158IC CS-IoT, Cyber\nSecurity",
+    "GM": 62651
+  },
+  {
+    "College, Branch": "E158IE Info.Science",
+    "GM": 32518
+  },
+  {
+    "College, Branch": "E158ME Mechanical",
+    "GM": 137870
+  },
+  {
+    "College, Branch": "E159AE Aeronaut.Engg",
+    "GM": 134159
+  },
+  {
+    "College, Branch": "E159AI Artificial\nIntelligence",
+    "GM": 98516
+  },
+  {
+    "College, Branch": "E159CS Computers",
+    "GM": 80531
+  },
+  {
+    "College, Branch": "E159DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 114347
+  },
+  {
+    "College, Branch": "E159EC Electronics",
+    "GM": 102499
+  },
+  {
+    "College, Branch": "E160CA CS (AI, Machine\nLearning)",
+    "GM": 24444
+  },
+  {
+    "College, Branch": "E160CS Computers",
+    "GM": 13970
+  },
+  {
+    "College, Branch": "E160EC Electronics",
+    "GM": 30724
+  },
+  {
+    "College, Branch": "E160IE Info.Science",
+    "GM": 19876
+  },
+  {
+    "College, Branch": "E160ME Mechanical",
+    "GM": 197305
+  },
+  {
+    "College, Branch": "E160RA Robotics and\nAutomation",
+    "GM": 61519
+  },
+  {
+    "College, Branch": "E161CE Civil",
+    "GM": 200060
+  },
+  {
+    "College, Branch": "E161CS Computers",
+    "GM": 50533
+  },
+  {
+    "College, Branch": "E161EC Electronics",
+    "GM": 73495
+  },
+  {
+    "College, Branch": "E161ME Mechanical",
+    "GM": 194440
+  },
+  {
+    "College, Branch": "E162CE Civil",
+    "GM": 199388
+  },
+  {
+    "College, Branch": "E162CS Computers",
+    "GM": 44440
+  },
+  {
+    "College, Branch": "E162EC Electronics",
+    "GM": 79017
+  },
+  {
+    "College, Branch": "E162ME Mechanical",
+    "GM": 186685
+  },
+  {
+    "College, Branch": "E163CE Civil",
+    "GM": 201817
+  },
+  {
+    "College, Branch": "E163CS Computers",
+    "GM": 48854
+  },
+  {
+    "College, Branch": "E163EC Electronics",
+    "GM": 68817
+  },
+  {
+    "College, Branch": "E163ME Mechanical",
+    "GM": 201599
+  },
+  {
+    "College, Branch": "E164CE Civil",
+    "GM": 201691
+  },
+  {
+    "College, Branch": "E164CS Computers",
+    "GM": 61171
+  },
+  {
+    "College, Branch": "E164EC Electronics",
+    "GM": 85430
+  },
+  {
+    "College, Branch": "E164ME Mechanical",
+    "GM": 191503
+  },
+  {
+    "College, Branch": "E165AI Artificial\nIntelligence",
+    "GM": 71133
+  },
+  {
+    "College, Branch": "E165CS Computers",
+    "GM": 59705
+  },
+  {
+    "College, Branch": "E165EC Electronics",
+    "GM": 89304
+  },
+  {
+    "College, Branch": "E165EE Electrical",
+    "GM": 160224
+  },
+  {
+    "College, Branch": "E165IC CS-IoT, Cyber\nSecurity",
+    "GM": 97147
+  },
+  {
+    "College, Branch": "E165IE Info.Science",
+    "GM": 81368
+  },
+  {
+    "College, Branch": "E166CE Civil",
+    "GM": 158483
+  },
+  {
+    "College, Branch": "E166CS Computers",
+    "GM": 20146
+  },
+  {
+    "College, Branch": "E166EC Electronics",
+    "GM": 27003
+  },
+  {
+    "College, Branch": "E166EE Electrical",
+    "GM": 46122
+  },
+  {
+    "College, Branch": "E166ME Mechanical",
+    "GM": 162795
+  },
+  {
+    "College, Branch": "E167AD Artificial\nIntel, Data Sc",
+    "GM": 45675
+  },
+  {
+    "College, Branch": "E167CE Civil",
+    "GM": 181202
+  },
+  {
+    "College, Branch": "E167CS Computers",
+    "GM": 30638
+  },
+  {
+    "College, Branch": "E167EC Electronics",
+    "GM": 43949
+  },
+  {
+    "College, Branch": "E167ME Mechanical",
+    "GM": 195618
+  },
+  {
+    "College, Branch": "E168CE Civil",
+    "GM": 197125
+  },
+  {
+    "College, Branch": "E168CS Computers",
+    "GM": 65831
+  },
+  {
+    "College, Branch": "E168EC Electronics",
+    "GM": 85125
+  },
+  {
+    "College, Branch": "E168IE Info.Science",
+    "GM": 73742
+  },
+  {
+    "College, Branch": "E168ME Mechanical",
+    "GM": 172011
+  },
+  {
+    "College, Branch": "E169AI Artificial\nIntelligence",
+    "GM": 49302
+  },
+  {
+    "College, Branch": "E169CD Computer Sc.\nand Design",
+    "GM": 76173
+  },
+  {
+    "College, Branch": "E169CS Computers",
+    "GM": 37449
+  },
+  {
+    "College, Branch": "E169DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 60260
+  },
+  {
+    "College, Branch": "E169EA Agriculture\nEngineering",
+    "GM": 102199
+  },
+  {
+    "College, Branch": "E169EC Electronics",
+    "GM": 63601
+  },
+  {
+    "College, Branch": "E169IC CS-IoT, Cyber\nSecurity",
+    "GM": 78821
+  },
+  {
+    "College, Branch": "E169IE Info.Science",
+    "GM": 48101
+  },
+  {
+    "College, Branch": "E169ME Mechanical",
+    "GM": 194006
+  },
+  {
+    "College, Branch": "E171AI Artificial\nIntelligence",
+    "GM": 60412
+  },
+  {
+    "College, Branch": "E171CE Civil",
+    "GM": 134529
+  },
+  {
+    "College, Branch": "E171CS Computers",
+    "GM": 53063
+  },
+  {
+    "College, Branch": "E171EC Electronics",
+    "GM": 74634
+  },
+  {
+    "College, Branch": "E171IC CS-IoT, Cyber\nSecurity",
+    "GM": 82419
+  },
+  {
+    "College, Branch": "E171IE Info.Science",
+    "GM": 59167
+  },
+  {
+    "College, Branch": "E171ME Mechanical",
+    "GM": 200529
+  },
+  {
+    "College, Branch": "E172CS Computers",
+    "GM": 48702
+  },
+  {
+    "College, Branch": "E172EC Electronics",
+    "GM": 68454
+  },
+  {
+    "College, Branch": "E172EE Electrical",
+    "GM": 109897
+  },
+  {
+    "College, Branch": "E172IE Info.Science",
+    "GM": 56942
+  },
+  {
+    "College, Branch": "E173CA CS (AI, Machine\nLearning)",
+    "GM": 46747
+  },
+  {
+    "College, Branch": "E173CE Civil",
+    "GM": 192844
+  },
+  {
+    "College, Branch": "E173CS Computers",
+    "GM": 29113
+  },
+  {
+    "College, Branch": "E173DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 56401
+  },
+  {
+    "College, Branch": "E173EC Electronics",
+    "GM": 60705
+  },
+  {
+    "College, Branch": "E173IE Info.Science",
+    "GM": 38763
+  },
+  {
+    "College, Branch": "E173ME Mechanical",
+    "GM": 189892
+  },
+  {
+    "College, Branch": "E174CS Computers",
+    "GM": 68692
+  },
+  {
+    "College, Branch": "E174EC Electronics",
+    "GM": 91117
+  },
+  {
+    "College, Branch": "E174EE Electrical",
+    "GM": 118845
+  },
+  {
+    "College, Branch": "E174IE Info.Science",
+    "GM": 82300
+  },
+  {
+    "College, Branch": "E175AD Artificial\nIntel, Data Sc",
+    "GM": 56986
+  },
+  {
+    "College, Branch": "E175CB Comp. Sc. and\nBus Sys.",
+    "GM": 90308
+  },
+  {
+    "College, Branch": "E175CE Civil",
+    "GM": 192117
+  },
+  {
+    "College, Branch": "E175CS Computers",
+    "GM": 39419
+  },
+  {
+    "College, Branch": "E175EC Electronics",
+    "GM": 51686
+  },
+  {
+    "College, Branch": "E175EE Electrical",
+    "GM": 98239
+  },
+  {
+    "College, Branch": "E175ME Mechanical",
+    "GM": 195174
+  },
+  {
+    "College, Branch": "E176CE Civil",
+    "GM": 52837
+  },
+  {
+    "College, Branch": "E176CS Computers",
+    "GM": 71010
+  },
+  {
+    "College, Branch": "E176EC Electronics",
+    "GM": 98293
+  },
+  {
+    "College, Branch": "E176EE Electrical",
+    "GM": 157161
+  },
+  {
+    "College, Branch": "E176ME Mechanical",
+    "GM": 195581
+  },
+  {
+    "College, Branch": "E177CA CS (AI, Machine\nLearning)",
+    "GM": 70805
+  },
+  {
+    "College, Branch": "E177CE Civil",
+    "GM": 196145
+  },
+  {
+    "College, Branch": "E177CS Computers",
+    "GM": 47184
+  },
+  {
+    "College, Branch": "E177EC Electronics",
+    "GM": 71439
+  },
+  {
+    "College, Branch": "E177EE Electrical",
+    "GM": 112321
+  },
+  {
+    "College, Branch": "E177EV EC  Engg(VLSI\nDesign)",
+    "GM": 202944
+  },
+  {
+    "College, Branch": "E177IE Info.Science",
+    "GM": 57315
+  },
+  {
+    "College, Branch": "E177ME Mechanical",
+    "GM": 183343
+  },
+  {
+    "College, Branch": "E178CA CS (AI, Machine\nLearning)",
+    "GM": 8664
+  },
+  {
+    "College, Branch": "E178CS Computers",
+    "GM": 5061
+  },
+  {
+    "College, Branch": "E178IE Info.Science",
+    "GM": 7603
+  },
+  {
+    "College, Branch": "E180AD Artificial\nIntel, Data Sc",
+    "GM": 90375
+  },
+  {
+    "College, Branch": "E180CS Computers",
+    "GM": 72239
+  },
+  {
+    "College, Branch": "E180EC Electronics",
+    "GM": 102402
+  },
+  {
+    "College, Branch": "E181CS Computers",
+    "GM": 79163
+  },
+  {
+    "College, Branch": "E181EC Electronics",
+    "GM": 105938
+  },
+  {
+    "College, Branch": "E181EE Electrical",
+    "GM": 154547
+  },
+  {
+    "College, Branch": "E183AE Aeronaut.Engg",
+    "GM": 157219
+  },
+  {
+    "College, Branch": "E183CS Computers",
+    "GM": 94368
+  },
+  {
+    "College, Branch": "E183EC Electronics",
+    "GM": 118106
+  },
+  {
+    "College, Branch": "E184AI Artificial\nIntelligence",
+    "GM": 98022
+  },
+  {
+    "College, Branch": "E184CE Civil",
+    "GM": 189586
+  },
+  {
+    "College, Branch": "E184CO Computer\nEngineering",
+    "GM": 130441
+  },
+  {
+    "College, Branch": "E184CS Computers",
+    "GM": 83163
+  },
+  {
+    "College, Branch": "E184EC Electronics",
+    "GM": 106633
+  },
+  {
+    "College, Branch": "E184ME Mechanical",
+    "GM": 193114
+  },
+  {
+    "College, Branch": "E185AD Artificial\nIntel, Data Sc",
+    "GM": 62875
+  },
+  {
+    "College, Branch": "E185CE Civil",
+    "GM": 184410
+  },
+  {
+    "College, Branch": "E185CS Computers",
+    "GM": 47584
+  },
+  {
+    "College, Branch": "E185EC Electronics",
+    "GM": 57213
+  },
+  {
+    "College, Branch": "E185EE Electrical",
+    "GM": 106338
+  },
+  {
+    "College, Branch": "E185ME Mechanical",
+    "GM": 176351
+  },
+  {
+    "College, Branch": "E185RA Robotics and\nAutomation",
+    "GM": 147279
+  },
+  {
+    "College, Branch": "E186AE Aeronaut.Engg",
+    "GM": 89125
+  },
+  {
+    "College, Branch": "E186BM Bio Medical",
+    "GM": 97707
+  },
+  {
+    "College, Branch": "E186CS Computers",
+    "GM": 41543
+  },
+  {
+    "College, Branch": "E186CY CS- Cyber\nSecurity",
+    "GM": 63634
+  },
+  {
+    "College, Branch": "E186DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 57263
+  },
+  {
+    "College, Branch": "E186EC Electronics",
+    "GM": 61751
+  },
+  {
+    "College, Branch": "E186IO CS- Internet of\nThings",
+    "GM": 73610
+  },
+  {
+    "College, Branch": "E186ME Mechanical",
+    "GM": 202306
+  },
+  {
+    "College, Branch": "E186SE Aero Space\nEngg.",
+    "GM": 76350
+  },
+  {
+    "College, Branch": "E188AI Artificial\nIntelligence",
+    "GM": 77510
+  },
+  {
+    "College, Branch": "E188CA CS (AI, Machine\nLearning)",
+    "GM": 85486
+  },
+  {
+    "College, Branch": "E188CS Computers",
+    "GM": 63975
+  },
+  {
+    "College, Branch": "E188EC Electronics",
+    "GM": 88684
+  },
+  {
+    "College, Branch": "E189AD Artificial\nIntel, Data Sc",
+    "GM": 59152
+  },
+  {
+    "College, Branch": "E189AI Artificial\nIntelligence",
+    "GM": 58148
+  },
+  {
+    "College, Branch": "E189CE Civil",
+    "GM": 185706
+  },
+  {
+    "College, Branch": "E189CS Computers",
+    "GM": 40346
+  },
+  {
+    "College, Branch": "E189EC Electronics",
+    "GM": 61757
+  },
+  {
+    "College, Branch": "E191CE Civil",
+    "GM": 196710
+  },
+  {
+    "College, Branch": "E191CS Computers",
+    "GM": 68033
+  },
+  {
+    "College, Branch": "E191EA Agriculture\nEngineering",
+    "GM": 117912
+  },
+  {
+    "College, Branch": "E191EC Electronics",
+    "GM": 88691
+  },
+  {
+    "College, Branch": "E191IE Info.Science",
+    "GM": 76523
+  },
+  {
+    "College, Branch": "E191ME Mechanical",
+    "GM": 198225
+  },
+  {
+    "College, Branch": "E191SA Smart Agritech",
+    "GM": 199453
+  },
+  {
+    "College, Branch": "E193BB B Tech in EC",
+    "GM": 111810
+  },
+  {
+    "College, Branch": "E193BH B Tech in AI",
+    "GM": 119543
+  },
+  {
+    "College, Branch": "E193BP B Tech in CE",
+    "GM": 192515
+  },
+  {
+    "College, Branch": "E193BW B Tech in CS",
+    "GM": 94317
+  },
+  {
+    "College, Branch": "E193CY CS- Cyber\nSecurity",
+    "GM": 112841
+  },
+  {
+    "College, Branch": "E193DB B Tech in ME",
+    "GM": 175846
+  },
+  {
+    "College, Branch": "E194CE Civil",
+    "GM": 200526
+  },
+  {
+    "College, Branch": "E194CS Computers",
+    "GM": 59014
+  },
+  {
+    "College, Branch": "E194EC Electronics",
+    "GM": 89917
+  },
+  {
+    "College, Branch": "E194ME Mechanical",
+    "GM": 192596
+  },
+  {
+    "College, Branch": "E196CA CS (AI, Machine\nLearning)",
+    "GM": 40661
+  },
+  {
+    "College, Branch": "E196CS Computers",
+    "GM": 28924
+  },
+  {
+    "College, Branch": "E196EC Electronics",
+    "GM": 38826
+  },
+  {
+    "College, Branch": "E196EE Electrical",
+    "GM": 80028
+  },
+  {
+    "College, Branch": "E196ME Mechanical",
+    "GM": 192953
+  },
+  {
+    "College, Branch": "E197CS Computers",
+    "GM": 92961
+  },
+  {
+    "College, Branch": "E197EC Electronics",
+    "GM": 116856
+  },
+  {
+    "College, Branch": "E197EE Electrical",
+    "GM": 187308
+  },
+  {
+    "College, Branch": "E198BB B Tech in EC",
+    "GM": 95216
+  },
+  {
+    "College, Branch": "E198BH B Tech in AI",
+    "GM": 61070
+  },
+  {
+    "College, Branch": "E198BJ B Tech in EE",
+    "GM": 162365
+  },
+  {
+    "College, Branch": "E198BP B Tech in CE",
+    "GM": 185264
+  },
+  {
+    "College, Branch": "E198BW B Tech in CS",
+    "GM": 49497
+  },
+  {
+    "College, Branch": "E199CA CS (AI, Machine\nLearning)",
+    "GM": 77456
+  },
+  {
+    "College, Branch": "E199CD Computer Sc.\nand Design",
+    "GM": 91813
+  },
+  {
+    "College, Branch": "E199CE Civil",
+    "GM": 194693
+  },
+  {
+    "College, Branch": "E199CS Computers",
+    "GM": 55777
+  },
+  {
+    "College, Branch": "E199EC Electronics",
+    "GM": 71779
+  },
+  {
+    "College, Branch": "E199EE Electrical",
+    "GM": 101162
+  },
+  {
+    "College, Branch": "E199ME Mechanical",
+    "GM": 183057
+  },
+  {
+    "College, Branch": "E201AE Aeronaut.Engg",
+    "GM": 100932
+  },
+  {
+    "College, Branch": "E201CE Civil",
+    "GM": 194914
+  },
+  {
+    "College, Branch": "E201CS Computers",
+    "GM": 47577
+  },
+  {
+    "College, Branch": "E201EC Electronics",
+    "GM": 75480
+  },
+  {
+    "College, Branch": "E201IE Info.Science",
+    "GM": 61522
+  },
+  {
+    "College, Branch": "E201ME Mechanical",
+    "GM": 194578
+  },
+  {
+    "College, Branch": "E202AD Artificial\nIntel, Data Sc",
+    "GM": 104387
+  },
+  {
+    "College, Branch": "E202CA CS (AI, Machine\nLearning)",
+    "GM": 121706
+  },
+  {
+    "College, Branch": "E202CS Computers",
+    "GM": 92989
+  },
+  {
+    "College, Branch": "E202EC Electronics",
+    "GM": 113201
+  },
+  {
+    "College, Branch": "E202EE Electrical",
+    "GM": 186471
+  },
+  {
+    "College, Branch": "E203AD Artificial\nIntel, Data Sc",
+    "GM": 56221
+  },
+  {
+    "College, Branch": "E203CB Comp. Sc. and\nBus Sys.",
+    "GM": 69815
+  },
+  {
+    "College, Branch": "E203CS Computers",
+    "GM": 46671
+  },
+  {
+    "College, Branch": "E203EC Electronics",
+    "GM": 78862
+  },
+  {
+    "College, Branch": "E203ME Mechanical",
+    "GM": 197661
+  },
+  {
+    "College, Branch": "E204AI Artificial\nIntelligence",
+    "GM": 63361
+  },
+  {
+    "College, Branch": "E204CE Civil",
+    "GM": 194958
+  },
+  {
+    "College, Branch": "E204CO Computer\nEngineering",
+    "GM": 89547
+  },
+  {
+    "College, Branch": "E204CS Computers",
+    "GM": 53475
+  },
+  {
+    "College, Branch": "E204EC Electronics",
+    "GM": 76517
+  },
+  {
+    "College, Branch": "E204RI Robotics and AI",
+    "GM": 91697
+  },
+  {
+    "College, Branch": "E205CA CS (AI, Machine\nLearning)",
+    "GM": 44395
+  },
+  {
+    "College, Branch": "E205CD Computer Sc.\nand Design",
+    "GM": 71655
+  },
+  {
+    "College, Branch": "E205CE Civil",
+    "GM": 181536
+  },
+  {
+    "College, Branch": "E205CS Computers",
+    "GM": 37617
+  },
+  {
+    "College, Branch": "E205CY CS- Cyber\nSecurity",
+    "GM": 64071
+  },
+  {
+    "College, Branch": "E205DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 55889
+  },
+  {
+    "College, Branch": "E205EC Electronics",
+    "GM": 52294
+  },
+  {
+    "College, Branch": "E205EE Electrical",
+    "GM": 88551
+  },
+  {
+    "College, Branch": "E205ME Mechanical",
+    "GM": 199992
+  },
+  {
+    "College, Branch": "E206AD Artificial\nIntel, Data Sc",
+    "GM": 48656
+  },
+  {
+    "College, Branch": "E206AI Artificial\nIntelligence",
+    "GM": 59724
+  },
+  {
+    "College, Branch": "E206CE Civil",
+    "GM": 179534
+  },
+  {
+    "College, Branch": "E206CS Computers",
+    "GM": 35975
+  },
+  {
+    "College, Branch": "E206EC Electronics",
+    "GM": 82538
+  },
+  {
+    "College, Branch": "E206ME Mechanical",
+    "GM": 183196
+  },
+  {
+    "College, Branch": "E207CA CS (AI, Machine\nLearning)",
+    "GM": 97383
+  },
+  {
+    "College, Branch": "E207CE Civil",
+    "GM": 191008
+  },
+  {
+    "College, Branch": "E207CS Computers",
+    "GM": 71090
+  },
+  {
+    "College, Branch": "E207EC Electronics",
+    "GM": 89656
+  },
+  {
+    "College, Branch": "E207ME Mechanical",
+    "GM": 202654
+  },
+  {
+    "College, Branch": "E208CS Computers",
+    "GM": 65790
+  },
+  {
+    "College, Branch": "E208EC Electronics",
+    "GM": 88222
+  },
+  {
+    "College, Branch": "E209AI Artificial\nIntelligence",
+    "GM": 42548
+  },
+  {
+    "College, Branch": "E209CE Civil",
+    "GM": 189672
+  },
+  {
+    "College, Branch": "E209CS Computers",
+    "GM": 34377
+  },
+  {
+    "College, Branch": "E209EC Electronics",
+    "GM": 62683
+  },
+  {
+    "College, Branch": "E209IE Info.Science",
+    "GM": 39168
+  },
+  {
+    "College, Branch": "E209ME Mechanical",
+    "GM": 173686
+  },
+  {
+    "College, Branch": "E210AI Artificial\nIntelligence",
+    "GM": 95344
+  },
+  {
+    "College, Branch": "E210CE Civil",
+    "GM": 200895
+  },
+  {
+    "College, Branch": "E210CS Computers",
+    "GM": 68146
+  },
+  {
+    "College, Branch": "E210EC Electronics",
+    "GM": 82927
+  },
+  {
+    "College, Branch": "E210EE Electrical",
+    "GM": 129202
+  },
+  {
+    "College, Branch": "E210ME Mechanical",
+    "GM": 202614
+  },
+  {
+    "College, Branch": "E211CE Civil",
+    "GM": 200686
+  },
+  {
+    "College, Branch": "E211CS Computers",
+    "GM": 48487
+  },
+  {
+    "College, Branch": "E211EC Electronics",
+    "GM": 70327
+  },
+  {
+    "College, Branch": "E211EE Electrical",
+    "GM": 101226
+  },
+  {
+    "College, Branch": "E211IE Info.Science",
+    "GM": 62570
+  },
+  {
+    "College, Branch": "E212AI Artificial\nIntelligence",
+    "GM": 15535
+  },
+  {
+    "College, Branch": "E212CD Computer Sc.\nand Design",
+    "GM": 23436
+  },
+  {
+    "College, Branch": "E212CE Civil",
+    "GM": 134413
+  },
+  {
+    "College, Branch": "E212CF CS(Artificial\nIntel.)",
+    "GM": 19365
+  },
+  {
+    "College, Branch": "E212CS Computers",
+    "GM": 14466
+  },
+  {
+    "College, Branch": "E212CY CS- Cyber\nSecurity",
+    "GM": 21512
+  },
+  {
+    "College, Branch": "E212DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 19394
+  },
+  {
+    "College, Branch": "E212EC Electronics",
+    "GM": 23715
+  },
+  {
+    "College, Branch": "E212EE Electrical",
+    "GM": 56356
+  },
+  {
+    "College, Branch": "E212IC CS-IoT, Cyber\nSecurity",
+    "GM": 24370
+  },
+  {
+    "College, Branch": "E212IE Info.Science",
+    "GM": 17667
+  },
+  {
+    "College, Branch": "E212ME Mechanical",
+    "GM": 121477
+  },
+  {
+    "College, Branch": "E213CE Civil",
+    "GM": 140893
+  },
+  {
+    "College, Branch": "E213CS Computers",
+    "GM": 74285
+  },
+  {
+    "College, Branch": "E213EC Electronics",
+    "GM": 111711
+  },
+  {
+    "College, Branch": "E213EE Electrical",
+    "GM": 191349
+  },
+  {
+    "College, Branch": "E213ME Mechanical",
+    "GM": 180567
+  },
+  {
+    "College, Branch": "E216AI Artificial\nIntelligence",
+    "GM": 91344
+  },
+  {
+    "College, Branch": "E216CE Civil",
+    "GM": 202254
+  },
+  {
+    "College, Branch": "E216CS Computers",
+    "GM": 59057
+  },
+  {
+    "College, Branch": "E216EE Electrical",
+    "GM": 202136
+  },
+  {
+    "College, Branch": "E220BB B Tech in EC",
+    "GM": 50718
+  },
+  {
+    "College, Branch": "E220BJ B Tech in EE",
+    "GM": 92752
+  },
+  {
+    "College, Branch": "E220BL B Tech in AS",
+    "GM": 78799
+  },
+  {
+    "College, Branch": "E220BP B Tech in CE",
+    "GM": 197432
+  },
+  {
+    "College, Branch": "E220BW B Tech in CS",
+    "GM": 43936
+  },
+  {
+    "College, Branch": "E220CW B Tech in IT",
+    "GM": 52841
+  },
+  {
+    "College, Branch": "E220DB B Tech in ME",
+    "GM": 183910
+  },
+  {
+    "College, Branch": "E221AI Artificial\nIntelligence",
+    "GM": 98717
+  },
+  {
+    "College, Branch": "E221CE Civil",
+    "GM": 192431
+  },
+  {
+    "College, Branch": "E221CS Computers",
+    "GM": 67354
+  },
+  {
+    "College, Branch": "E221EC Electronics",
+    "GM": 83304
+  },
+  {
+    "College, Branch": "E221ME Mechanical",
+    "GM": 193542
+  },
+  {
+    "College, Branch": "E222CS Computers",
+    "GM": 45600
+  },
+  {
+    "College, Branch": "E222CY CS- Cyber\nSecurity",
+    "GM": 58815
+  },
+  {
+    "College, Branch": "E222EC Electronics",
+    "GM": 60224
+  },
+  {
+    "College, Branch": "E222ME Mechanical",
+    "GM": 169703
+  },
+  {
+    "College, Branch": "E225DG DG",
+    "GM": 156536
+  },
+  {
+    "College, Branch": "E227CS Computers",
+    "GM": 73896
+  },
+  {
+    "College, Branch": "E227EC Electronics",
+    "GM": 90525
+  },
+  {
+    "College, Branch": "E232AM B Tech in AM",
+    "GM": 18372
+  },
+  {
+    "College, Branch": "E232BA\nB.Tech(Agri.Engg)",
+    "GM": 64464
+  },
+  {
+    "College, Branch": "E232BB B Tech in EC",
+    "GM": 26536
+  },
+  {
+    "College, Branch": "E232BG B Tech in AD",
+    "GM": 20797
+  },
+  {
+    "College, Branch": "E232BJ B Tech in EE",
+    "GM": 47178
+  },
+  {
+    "College, Branch": "E232BL B Tech in AS",
+    "GM": 45003
+  },
+  {
+    "College, Branch": "E232BP B Tech in CE",
+    "GM": 115007
+  },
+  {
+    "College, Branch": "E232BU B Tech in CI",
+    "GM": 22485
+  },
+  {
+    "College, Branch": "E232BW B Tech in CS",
+    "GM": 14440
+  },
+  {
+    "College, Branch": "E232CL B Tech in EO",
+    "GM": 31800
+  },
+  {
+    "College, Branch": "E232CN B Tech in IB",
+    "GM": 21527
+  },
+  {
+    "College, Branch": "E232CU B Tech in IS",
+    "GM": 17165
+  },
+  {
+    "College, Branch": "E232DB B Tech in ME",
+    "GM": 94057
+  },
+  {
+    "College, Branch": "E232DD B Tech in MS",
+    "GM": 66360
+  },
+  {
+    "College, Branch": "E232DF B Tech in RA",
+    "GM": 41024
+  },
+  {
+    "College, Branch": "E232DK B Tech in SS",
+    "GM": 25267
+  },
+  {
+    "College, Branch": "E235AT Automotive\nEngg.",
+    "GM": 87721
+  },
+  {
+    "College, Branch": "E235BB B Tech in EC",
+    "GM": 18754
+  },
+  {
+    "College, Branch": "E235BH B Tech in AI",
+    "GM": 14766
+  },
+  {
+    "College, Branch": "E235BJ B Tech in EE",
+    "GM": 44910
+  },
+  {
+    "College, Branch": "E235BL B Tech in AS",
+    "GM": 19745
+  },
+  {
+    "College, Branch": "E235BP B Tech in CE",
+    "GM": 104659
+  },
+  {
+    "College, Branch": "E235BW B Tech in CS",
+    "GM": 12376
+  },
+  {
+    "College, Branch": "E235CU B Tech in IS",
+    "GM": 15679
+  },
+  {
+    "College, Branch": "E235DA B Tech in MC",
+    "GM": 17899
+  },
+  {
+    "College, Branch": "E235DB B Tech in ME",
+    "GM": 101468
+  },
+  {
+    "College, Branch": "E235DJ B Tech in RO",
+    "GM": 30350
+  },
+  {
+    "College, Branch": "E237AM B Tech in AM",
+    "GM": 33030
+  },
+  {
+    "College, Branch": "E237BB B Tech in EC",
+    "GM": 55454
+  },
+  {
+    "College, Branch": "E237BJ B Tech in EE",
+    "GM": 80988
+  },
+  {
+    "College, Branch": "E237BN B Tech in BD",
+    "GM": 49712
+  },
+  {
+    "College, Branch": "E237BP B Tech in CE",
+    "GM": 203322
+  },
+  {
+    "College, Branch": "E237BQ B Tech in CG",
+    "GM": 54394
+  },
+  {
+    "College, Branch": "E237BU B Tech in CI",
+    "GM": 45552
+  },
+  {
+    "College, Branch": "E237BV B Tech in CO",
+    "GM": 60489
+  },
+  {
+    "College, Branch": "E237BW B Tech in CS",
+    "GM": 35552
+  },
+  {
+    "College, Branch": "E237BX B Tech in CY",
+    "GM": 48723
+  },
+  {
+    "College, Branch": "E237BY B Tech in DO",
+    "GM": 57771
+  },
+  {
+    "College, Branch": "E237BZ B Tech in DS",
+    "GM": 44770
+  },
+  {
+    "College, Branch": "E237CM B Tech in EV",
+    "GM": 80361
+  },
+  {
+    "College, Branch": "E237CQ B Tech in IO",
+    "GM": 61564
+  },
+  {
+    "College, Branch": "E237CU B Tech in IS",
+    "GM": 41362
+  },
+  {
+    "College, Branch": "E237CX B Tech in IY",
+    "GM": 49582
+  },
+  {
+    "College, Branch": "E237CZ B Tech in LC",
+    "GM": 57447
+  },
+  {
+    "College, Branch": "E237DB B Tech in ME",
+    "GM": 152395
+  },
+  {
+    "College, Branch": "E237DE B Tech in PE",
+    "GM": 163331
+  },
+  {
+    "College, Branch": "E237DM B.TECH IN CS NW",
+    "GM": 45758
+  },
+  {
+    "College, Branch": "E237DN B.Tech in VLSI",
+    "GM": 84162
+  },
+  {
+    "College, Branch": "E238CE Civil",
+    "GM": 200450
+  },
+  {
+    "College, Branch": "E238CS Computers",
+    "GM": 60376
+  },
+  {
+    "College, Branch": "E238EC Electronics",
+    "GM": 83055
+  },
+  {
+    "College, Branch": "E238IE Info.Science",
+    "GM": 76757
+  },
+  {
+    "College, Branch": "E239AE Aeronaut.Engg",
+    "GM": 91869
+  },
+  {
+    "College, Branch": "E239CS Computers",
+    "GM": 42442
+  },
+  {
+    "College, Branch": "E239EA Agriculture\nEngineering",
+    "GM": 106935
+  },
+  {
+    "College, Branch": "E239EC Electronics",
+    "GM": 62358
+  },
+  {
+    "College, Branch": "E239ME Mechanical",
+    "GM": 193798
+  },
+  {
+    "College, Branch": "E240AM B Tech in AM",
+    "GM": 25963
+  },
+  {
+    "College, Branch": "E240BB B Tech in EC",
+    "GM": 31096
+  },
+  {
+    "College, Branch": "E240BL B Tech in AS",
+    "GM": 28384
+  },
+  {
+    "College, Branch": "E240BQ B Tech in CG",
+    "GM": 26912
+  },
+  {
+    "College, Branch": "E240BW B Tech in CS",
+    "GM": 23442
+  },
+  {
+    "College, Branch": "E240BX B Tech in CY",
+    "GM": 28727
+  },
+  {
+    "College, Branch": "E240BZ B Tech in DS",
+    "GM": 27461
+  },
+  {
+    "College, Branch": "E240DB B Tech in ME",
+    "GM": 111904
+  },
+  {
+    "College, Branch": "E240DH B Tech in RAI",
+    "GM": 42058
+  },
+  {
+    "College, Branch": "E241BT Bio Technology",
+    "GM": 41277
+  },
+  {
+    "College, Branch": "E241CE Civil",
+    "GM": 60935
+  },
+  {
+    "College, Branch": "E241CF CS(Artificial\nIntel.)",
+    "GM": 7479
+  },
+  {
+    "College, Branch": "E241CM B Tech in EV",
+    "GM": 14701
+  },
+  {
+    "College, Branch": "E241CS Computers",
+    "GM": 4326
+  },
+  {
+    "College, Branch": "E241EC Electronics",
+    "GM": 10052
+  },
+  {
+    "College, Branch": "E241EE Electrical",
+    "GM": 21411
+  },
+  {
+    "College, Branch": "E241ME Mechanical",
+    "GM": 59009
+  },
+  {
+    "College, Branch": "E241RO Auto. And\nRobot.",
+    "GM": 30318
+  },
+  {
+    "College, Branch": "E252CA CS (AI, Machine\nLearning)",
+    "GM": 71925
+  },
+  {
+    "College, Branch": "E252CE Civil",
+    "GM": 191557
+  },
+  {
+    "College, Branch": "E252CS Computers",
+    "GM": 60653
+  },
+  {
+    "College, Branch": "E252DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 71575
+  },
+  {
+    "College, Branch": "E252EC Electronics",
+    "GM": 69430
+  },
+  {
+    "College, Branch": "E252IE Info.Science",
+    "GM": 62159
+  },
+  {
+    "College, Branch": "E252ME Mechanical",
+    "GM": 188012
+  },
+  {
+    "College, Branch": "E254AD Artificial\nIntel, Data Sc",
+    "GM": 56159
+  },
+  {
+    "College, Branch": "E254CA CS (AI, Machine\nLearning)",
+    "GM": 50605
+  },
+  {
+    "College, Branch": "E254CE Civil",
+    "GM": 202797
+  },
+  {
+    "College, Branch": "E254CS Computers",
+    "GM": 38461
+  },
+  {
+    "College, Branch": "E254EC Electronics",
+    "GM": 72652
+  },
+  {
+    "College, Branch": "E254IC CS-IoT, Cyber\nSecurity",
+    "GM": 68363
+  },
+  {
+    "College, Branch": "E254IE Info.Science",
+    "GM": 46794
+  },
+  {
+    "College, Branch": "E254ME Mechanical",
+    "GM": 172994
+  },
+  {
+    "College, Branch": "E255CA CS (AI, Machine\nLearning)",
+    "GM": 53120
+  },
+  {
+    "College, Branch": "E255CB Comp. Sc. and\nBus Sys.",
+    "GM": 63423
+  },
+  {
+    "College, Branch": "E255CE Civil",
+    "GM": 178452
+  },
+  {
+    "College, Branch": "E255CS Computers",
+    "GM": 45130
+  },
+  {
+    "College, Branch": "E255CY CS- Cyber\nSecurity",
+    "GM": 59919
+  },
+  {
+    "College, Branch": "E255DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 55817
+  },
+  {
+    "College, Branch": "E255EC Electronics",
+    "GM": 67951
+  },
+  {
+    "College, Branch": "E255EE Electrical",
+    "GM": 87473
+  },
+  {
+    "College, Branch": "E255IO CS- Internet of\nThings",
+    "GM": 69836
+  },
+  {
+    "College, Branch": "E255ME Mechanical",
+    "GM": 190479
+  },
+  {
+    "College, Branch": "E257BB B Tech in EC",
+    "GM": 48237
+  },
+  {
+    "College, Branch": "E257BW B Tech in CS",
+    "GM": 36031
+  },
+  {
+    "College, Branch": "E257BZ B Tech in DS",
+    "GM": 36641
+  },
+  {
+    "College, Branch": "E257CA CS (AI, Machine\nLearning)",
+    "GM": 39184
+  },
+  {
+    "College, Branch": "E257CW B Tech in IT",
+    "GM": 50859
+  },
+  {
+    "College, Branch": "E258AD Artificial\nIntel, Data Sc",
+    "GM": 41606
+  },
+  {
+    "College, Branch": "E258CA CS (AI, Machine\nLearning)",
+    "GM": 52385
+  },
+  {
+    "College, Branch": "E258CE Civil",
+    "GM": 191404
+  },
+  {
+    "College, Branch": "E258CS Computers",
+    "GM": 31816
+  },
+  {
+    "College, Branch": "E258EC Electronics",
+    "GM": 47242
+  },
+  {
+    "College, Branch": "E258ME Mechanical",
+    "GM": 128987
+  },
+  {
+    "College, Branch": "E260UP Planning",
+    "GM": 151267
+  },
+  {
+    "College, Branch": "E263UP Planning",
+    "GM": 160142
+  },
+  {
+    "College, Branch": "E264CS Computers",
+    "GM": 88513
+  },
+  {
+    "College, Branch": "E265AI Artificial\nIntelligence",
+    "GM": 51156
+  },
+  {
+    "College, Branch": "E265CE Civil",
+    "GM": 196461
+  },
+  {
+    "College, Branch": "E265CS Computers",
+    "GM": 40084
+  },
+  {
+    "College, Branch": "E265EC Electronics",
+    "GM": 45790
+  },
+  {
+    "College, Branch": "E265ME Mechanical",
+    "GM": 201540
+  },
+  {
+    "College, Branch": "E269CA CS (AI, Machine\nLearning)",
+    "GM": 61636
+  },
+  {
+    "College, Branch": "E269CE Civil",
+    "GM": 146522
+  },
+  {
+    "College, Branch": "E269CS Computers",
+    "GM": 39493
+  },
+  {
+    "College, Branch": "E269EC Electronics",
+    "GM": 49317
+  },
+  {
+    "College, Branch": "E269ME Mechanical",
+    "GM": 196809
+  },
+  {
+    "College, Branch": "E272CE Civil",
+    "GM": 202341
+  },
+  {
+    "College, Branch": "E272CS Computers",
+    "GM": 47728
+  },
+  {
+    "College, Branch": "E272EC Electronics",
+    "GM": 77386
+  },
+  {
+    "College, Branch": "E272EE Electrical",
+    "GM": 93651
+  },
+  {
+    "College, Branch": "E272ME Mechanical",
+    "GM": 203246
+  },
+  {
+    "College, Branch": "E273CE Civil",
+    "GM": 194587
+  },
+  {
+    "College, Branch": "E273CS Computers",
+    "GM": 67636
+  },
+  {
+    "College, Branch": "E273EC Electronics",
+    "GM": 89742
+  },
+  {
+    "College, Branch": "E273EE Electrical",
+    "GM": 109655
+  },
+  {
+    "College, Branch": "E274CE Civil",
+    "GM": 200823
+  },
+  {
+    "College, Branch": "E274CS Computers",
+    "GM": 49413
+  },
+  {
+    "College, Branch": "E274EC Electronics",
+    "GM": 69045
+  },
+  {
+    "College, Branch": "E274EE Electrical",
+    "GM": 103470
+  },
+  {
+    "College, Branch": "E274ME Mechanical",
+    "GM": 197369
+  },
+  {
+    "College, Branch": "E275CS Computers",
+    "GM": 8655
+  },
+  {
+    "College, Branch": "E275EC Electronics",
+    "GM": 12673
+  },
+  {
+    "College, Branch": "E275IE Info.Science",
+    "GM": 10217
+  },
+  {
+    "College, Branch": "E278AE Aeronaut.Engg",
+    "GM": 72629
+  },
+  {
+    "College, Branch": "E278ES Electronics and\nComputer",
+    "GM": 95687
+  },
+  {
+    "College, Branch": "E278MM Mechanical,\nSmart Manf.",
+    "GM": 182845
+  },
+  {
+    "College, Branch": "E279CB Comp. Sc. and\nBus Sys.",
+    "GM": 51386
+  },
+  {
+    "College, Branch": "E279CS Computers",
+    "GM": 24463
+  },
+  {
+    "College, Branch": "E279ES Electronics and\nComputer",
+    "GM": 71201
+  },
+  {
+    "College, Branch": "E279RA Robotics and\nAutomation",
+    "GM": 91107
+  },
+  {
+    "College, Branch": "E281AI Artificial\nIntelligence",
+    "GM": 70087
+  },
+  {
+    "College, Branch": "E281AU Automobile",
+    "GM": 203325
+  },
+  {
+    "College, Branch": "E281CS Computers",
+    "GM": 60885
+  },
+  {
+    "College, Branch": "E283AD Artificial\nIntel, Data Sc",
+    "GM": 47226
+  },
+  {
+    "College, Branch": "E283AI Artificial\nIntelligence",
+    "GM": 41004
+  },
+  {
+    "College, Branch": "E283BR BioMed. and\nRobotic Engg",
+    "GM": 90514
+  },
+  {
+    "College, Branch": "E283CD Computer Sc.\nand Design",
+    "GM": 65296
+  },
+  {
+    "College, Branch": "E283CV Civil\nEnvironment Engg",
+    "GM": 191275
+  },
+  {
+    "College, Branch": "E284CS Computers",
+    "GM": 2700
+  },
+  {
+    "College, Branch": "E285BW B Tech in CS",
+    "GM": 8017
+  },
+  {
+    "College, Branch": "E286AD Artificial\nIntel, Data Sc",
+    "GM": 40736
+  },
+  {
+    "College, Branch": "E286AI Artificial\nIntelligence",
+    "GM": 38586
+  },
+  {
+    "College, Branch": "E286CD Computer Sc.\nand Design",
+    "GM": 55613
+  },
+  {
+    "College, Branch": "E286CS Computers",
+    "GM": 22707
+  },
+  {
+    "College, Branch": "E286IE Info.Science",
+    "GM": 28796
+  },
+  {
+    "College, Branch": "E287BF B Tech in DS",
+    "GM": 160173
+  },
+  {
+    "College, Branch": "E288CS Computers",
+    "GM": 54114
+  },
+  {
+    "College, Branch": "E288CW B Tech in IT",
+    "GM": 86174
+  },
+  {
+    "College, Branch": "E288DI B Tech in RE",
+    "GM": 124676
+  },
+  {
+    "College, Branch": "E288DL B.TECH IN CS",
+    "GM": 72616
+  },
+  {
+    "College, Branch": "E288IE Info.Science",
+    "GM": 73218
+  },
+  {
+    "College, Branch": "E289CS Computers",
+    "GM": 35084
+  },
+  {
+    "College, Branch": "E289ES Electronics and\nComputer",
+    "GM": 86984
+  },
+  {
+    "College, Branch": "E290CS Computers",
+    "GM": 28344
+  },
+  {
+    "College, Branch": "E290ME Mechanical",
+    "GM": 203182
+  },
+  {
+    "College, Branch": "E291AD Artificial\nIntel, Data Sc",
+    "GM": 78571
+  },
+  {
+    "College, Branch": "E291CS Computers",
+    "GM": 63682
+  },
+  {
+    "College, Branch": "E292AD Artificial\nIntel, Data Sc",
+    "GM": 62126
+  },
+  {
+    "College, Branch": "E292CS Computers",
+    "GM": 42929
+  },
+  {
+    "College, Branch": "E297AI Artificial\nIntelligence",
+    "GM": 80992
+  },
+  {
+    "College, Branch": "E297CS Computers",
+    "GM": 67724
+  },
+  {
+    "College, Branch": "E297DC Data Sciences",
+    "GM": 90595
+  },
+  {
+    "College, Branch": "E297EC Electronics",
+    "GM": 95301
+  },
+  {
+    "College, Branch": "E297ES Electronics and\nComputer",
+    "GM": 120182
+  },
+  {
+    "College, Branch": "E297IE Info.Science",
+    "GM": 82226
+  },
+  {
+    "College, Branch": "E299CS Computers",
+    "GM": 88290
+  },
+  {
+    "College, Branch": "E299EC Electronics",
+    "GM": 106782
+  },
+  {
+    "College, Branch": "E299IE Info.Science",
+    "GM": 94221
+  },
+  {
+    "College, Branch": "E300AD Artificial\nIntel, Data Sc",
+    "GM": 76692
+  },
+  {
+    "College, Branch": "E300CA CS (AI, Machine\nLearning)",
+    "GM": 92303
+  },
+  {
+    "College, Branch": "E300CS Computers",
+    "GM": 62715
+  },
+  {
+    "College, Branch": "E300CY CS- Cyber\nSecurity",
+    "GM": 95531
+  },
+  {
+    "College, Branch": "E300DS Comp. Sc. Engg-\nData Sc.",
+    "GM": 90224
+  },
+  {
+    "College, Branch": "E300EC Electronics",
+    "GM": 98616
+  },
+  {
+    "College, Branch": "E300IE Info.Science",
+    "GM": 86602
+  },
+  {
+    "College, Branch": "E301CS Computers",
+    "GM": 91974
+  },
+  {
+    "College, Branch": "E301EC Electronics",
+    "GM": 129910
+  },
+  {
+    "College, Branch": "E301EE Electrical",
+    "GM": 197026
+  },
+  {
+    "College, Branch": "E303BB B Tech in EC",
+    "GM": 86234
+  },
+  {
+    "College, Branch": "E303BJ B Tech in EE",
+    "GM": 137706
+  },
+  {
+    "College, Branch": "E303BW B Tech in CS",
+    "GM": 65014
+  },
+  {
+    "College, Branch": "E303CU B Tech in IS",
+    "GM": 106818
+  },
+  {
+    "College, Branch": "E303LD B Tech in DS",
+    "GM": 127887
+  },
+  {
+    "College, Branch": "E303LE B Tech in AIML",
+    "GM": 168518
+  },
+  {
+    "College, Branch": "E303LF B Tech in CC",
+    "GM": 188427
+  },
+  {
+    "College, Branch": "E303LG B Tech in CS",
+    "GM": 141645
+  },
+  {
+    "College, Branch": "E303LH B Tech in IS",
+    "GM": 193522
+  },
+  {
+    "College, Branch": "E303LJ B Tech in BS",
+    "GM": 201150
+  },
+  {
+    "College, Branch": "E303LK B Tech in IOT",
+    "GM": 178340
+  }
+]
