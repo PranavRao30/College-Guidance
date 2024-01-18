@@ -2,6 +2,8 @@ require('dotenv').config();
 const express = require('express');
 const jwt = require('jsonwebtoken');
 const router = express.Router();
+const cutoffs = require('../GMCutoffSorted.json');
+const collegeCodes = require('../CollegeCodesFinal.json');
 
 const authenticateToken = (req, res, next) => {
     const token = req.header('Authorization');
@@ -28,6 +30,32 @@ router.get('/user-details', authenticateToken, (req, res) => {
     console.log(payload);
 
     res.json(payload);
+});
+
+router.post('/getCollege', (req,res) => {
+    const rank = req.body.num;
+    console.log(rank);
+    const ranks = Object.keys(cutoffs);
+    const len = ranks.length;
+    let i;
+    for(i = 0; i < len; i++){
+        if(cutoffs[ranks[i]] >= rank){
+            break;
+        }
+    }
+    let lst = [];
+    let k = 0;
+    for(let j = i - 3; j < i + 7; j++){
+        if(j >= 0 && j < len){
+            let code = ranks[j].substring(0,4);
+            const collegeDecided = collegeCodes[code];
+            let s = cutoffs[ranks[j]] + " -> " + ranks[j].substring(4) + " -> " + collegeDecided;
+            lst[k] = s;
+            k++;
+        }
+    }
+    console.log(lst);
+    res.send(lst);
 });
 
 module.exports = router;

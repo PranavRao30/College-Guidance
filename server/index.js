@@ -21,7 +21,7 @@ app.use(bodyParser.urlencoded({
 app.use(express.json());
 app.use(cookieParser());
 
-mongoose.connect('//enter database url');
+// mongoose.connect('mongodb+srv://prnvraosrs:R7AefiNB8qyoK8w6@cluster0.xlcspfo.mongodb.net/?retryWrites=true&w=majority');
 
 app.use("/auth", authRoutes);
 
