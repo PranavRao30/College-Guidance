@@ -2,8 +2,8 @@ require('dotenv').config();
 const express = require('express');
 const jwt = require('jsonwebtoken');
 const router = express.Router();
-const cutoffs = require('../GMCutoffSorted.json');
-const collegeCodes = require('../CollegeCodesFinal.json');
+const cutoffs = require('../jsonFiles/GMCutoffSorted.json');
+const collegeCodes = require('../jsonFiles/CollegeCodesFinal.json');
 
 const authenticateToken = (req, res, next) => {
     const token = req.header('Authorization');

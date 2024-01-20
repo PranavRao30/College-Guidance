@@ -12,3 +12,109 @@
   scroll-behavior: smooth;
   color-scheme: dark;
 }
+
+body {
+  background-color: #BFDBFE;
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.a1{
+  margin-right: 200px;
+  text-decoration: none;
+  color: snow;
+}
+
+button{
+  color:white;
+  background-color: #f08804;
+}
+
+div {
+  border-radius: 10px;
+}
+
+#about, #article {
+  padding: 20px;
+  text-align: center;
+  display: inline-block;
+  position: fixed;
+  color: snow;
+}
+
+#about {
+  margin-top: 30px;
+  left: 100px;
+  height: 250px;
+  width: 500px;
+  border: 2px solid black;
+  background-color: #60A5FA;
+}
+
+#article {
+  margin-top: 30px;
+  right: 100px;
+  height: 450px;
+  width: 500px;
+  border: 2px solid black;
+  background-color: #60A5FA;
+  overflow: hidden; /* Hide overflow content */
+  transition: animation-play-state 0.3s;
+}
+
+
+.a2{
+  font-size: medium;
+  text-decoration: none;
+  color: black; /* Set link color */
+}
+
+.a2:hover{
+  color: red;
+}
+
+.news-list{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  animation: scrollNews 17s ease-in infinite;  
+}
+.new-list:hover{
+  animation-play-state:paused;
+}
+
+.a2 {
+  margin-bottom: 10px;
+  line-height: 1; /* Improved readability by adjusting line height */
+}
+
+
+
+@keyframes scrollNews {
+  0%{
+      transform: translateY(100%);
+  }
+  100% {
+      transform: translateY(-100%);
+  }
+}
+
+hr {
+  position: fixed;
+  top: 610px; /* Adjust this value based on your layout */
+  width: 100%; /* Set the hr to full width */
+  border-color: black;
+  border-width: 2px;
+  border-radius: 10px;
+}
+
+/* Footer Part */
+#foot{
+  text-align: center;
+  position: relative;
+  top: 600px;
+}
+#sub{
+  border: 1.5px solid #264264;
+  border-radius: 10px;
+}
