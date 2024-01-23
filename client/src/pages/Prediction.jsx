@@ -4,6 +4,7 @@ import Navbar from '../components/navbar';
 
 const Prediction = () => {
   const backendPort = 'https://college-guidance-backend.onrender.com';
+  // const backendPort = 'http://localhost:3000';
   const [num, setNum] = useState(null);
   const [collegeData, setCollegeData] = useState([]);
 
@@ -21,7 +22,7 @@ const Prediction = () => {
   return (
     <>
       <Navbar />
-      <div className="bg-blue-200 text-white min-h-screen flex flex-col items-center justify-center">
+      <div className="bg-blue-200 text-white min-h-screen flex flex-col items-center justify-center pt-[120px]">
         <form onSubmit={handleSubmit} className="flex flex-col items-center mb-8">
           <label className="mb-4 text-lg text-black font-medium">
             <p>Enter your rank:</p>
@@ -41,14 +42,27 @@ const Prediction = () => {
             Get College Recommendations
           </button>
         </form>
-        <div className='bg-white w-100% p-2'>
-          <ul className="text-md">
-            {collegeData.map((college, index) => (
-              <li key={index} className="m-2 text-black">
-                {college}
-              </li>
-            ))}
-          </ul>
+        <div className={`bg-blue-500 text-white w-full sm:w-fit p-2 ${collegeData.length ? 'rounded' : 'hidden'}`}>
+          <div className="overflow-x-auto">
+            <table className="w-full text-md">
+              <thead>
+                <tr>
+                  <th className="m-2 p-2 font-semibold text-lg">Cutoff</th>
+                  <th className="m-2 p-2 font-semibold text-lg">Branch</th>
+                  <th className="m-2 p-2 font-semibold text-lg">College</th>
+                </tr>
+              </thead>
+              <tbody>
+                {collegeData.map((college, index) => (
+                  <tr key={index} className={`${index % 2 === 0 ? 'bg-blue-200' : 'bg-blue-100'} text-black`}>
+                    <td className="m-2 p-2">{college[0]}</td>
+                    <td className="m-2 p-2">{college[1]}</td>
+                    <td className="m-2 p-2">{college[2]}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
         </div>
       </div>
     </>

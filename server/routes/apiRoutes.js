@@ -49,7 +49,7 @@ router.post('/getCollege', (req,res) => {
         if(j >= 0 && j < len){
             let code = ranks[j].substring(0,4);
             const collegeDecided = collegeCodes[code];
-            let s = cutoffs[ranks[j]] + " -> " + ranks[j].substring(4) + " -> " + collegeDecided;
+            let s = [cutoffs[ranks[j]] , ranks[j].substring(4) , collegeDecided];
             lst[k] = s;
             k++;
         }
