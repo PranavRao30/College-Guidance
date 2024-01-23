@@ -3,7 +3,7 @@ import axios from 'axios';
 import Navbar from '../components/navbar';
 
 const Prediction = () => {
-  const backendPort = 'http://localhost:3000';
+  const backendPort = 'https://college-guidance-backend.onrender.com';
   const [num, setNum] = useState(null);
   const [collegeData, setCollegeData] = useState([]);
 
