@@ -9,7 +9,7 @@ const apiRoutes = require('./routes/apiRoutes');
 
 const app = express();
 const port = process.env.PORT || 3000;
-const allowedOrigins = ['http://localhost:5173'];
+const allowedOrigins = ['http://localhost:5173', 'https://collegeguidance.netlify.app'];
 
 app.use(cors({
     origin: allowedOrigins,
