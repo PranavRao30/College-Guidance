@@ -8,7 +8,7 @@ const cookieParser = require('cookie-parser');
 const apiRoutes = require('./routes/apiRoutes');
 
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 const allowedOrigins = ['http://localhost:5173'];
 
 app.use(cors({
@@ -20,8 +20,6 @@ app.use(bodyParser.urlencoded({
 }));
 app.use(express.json());
 app.use(cookieParser());
-
-// mongoose.connect('mongodb+srv://prnvraosrs:R7AefiNB8qyoK8w6@cluster0.xlcspfo.mongodb.net/?retryWrites=true&w=majority');
 
 app.use("/auth", authRoutes);
 

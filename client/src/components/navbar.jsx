@@ -35,11 +35,11 @@ function Navbar() {
                     />
                     <div className={`${!toggle ? 'hidden' : 'flex'} p-6 bg-blue-600 absolute top-20 right-0 mx-4 my-2 min-w-[140px] z-10 rounded-xl`}>
                         <ul className='list-none flex justify-end items-start flex-col gap-4 text-white'>
-                            <li>Predict College</li>
+                            <li><Link to='/predict'>Predict College</Link></li>
                             <li>About Us</li>
                             <li>Contact Us</li>
                             <li>Community</li>
-                            <li>LOG IN</li>
+                            <li><button className="p-2 bg-white text-blue-800 font-semibold rounded-[10px] text-lg hover:scale-110">LOG IN</button></li>
                         </ul>
                     </div>
                 </div>

@@ -21,16 +21,16 @@ const Prediction = () => {
   return (
     <>
       <Navbar />
-      <div className="bg-blue-200 text-white min-h-screen flex flex-col justify-center items-center">
+      <div className="bg-blue-200 text-white min-h-screen flex flex-col items-center justify-center">
         <form onSubmit={handleSubmit} className="flex flex-col items-center mb-8">
-          <label className="mb-4 text-lg text-black">
-            Enter your rank:
+          <label className="mb-4 text-lg text-black font-medium">
+            <p>Enter your rank:</p>
             <input
               type="number"
               name="num"
               value={num}
               onChange={handleChange}
-              className="border p-2 rounded-md mx-2 bg-white"
+              className="border p-2 rounded-md bg-white"
               required
             />
           </label>
@@ -41,10 +41,10 @@ const Prediction = () => {
             Get College Recommendations
           </button>
         </form>
-        <div>
-          <ul className="text-lg">
+        <div className='bg-white w-100% p-2'>
+          <ul className="text-md">
             {collegeData.map((college, index) => (
-              <li key={index} className="mb-2 text-black">
+              <li key={index} className="m-2 text-black">
                 {college}
               </li>
             ))}

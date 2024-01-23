@@ -50,12 +50,12 @@ const Landing2 = () => {
     useEffect(() => {
         const tickerContainer = document.querySelector('.newsscrollul');
         const tickerItems = tickerContainer.children;
-    
+
         if (tickerItems.length > 0) {
             const moveTop = () => {
                 tickerContainer.style.transition = 'margin-top 3s cubic-bezier(0.25, 0.1, 0.25, 1)';
                 tickerContainer.style.marginTop = `-${tickerHeight + 40}px`; // Display 5 items at a time
-    
+
                 setTimeout(() => {
                     tickerContainer.style.transition = 'none';
                     tickerContainer.style.marginTop = '0';
@@ -63,13 +63,13 @@ const Landing2 = () => {
                     tickerContainer.removeChild(tickerContainer.children[0]);
                 }, 1000);
             };
-    
+
             const intervalId = setInterval(moveTop, 3000);
-    
+
             return () => clearInterval(intervalId);
         }
     }, [tickerHeight, newsLinks]);
-    
+
     useEffect(() => {
         const tickerItemHeight = document.querySelector('.newsscrollli').offsetHeight;
         document.querySelector('.newsdiv').style.height = `${6.5 * tickerItemHeight}px`;
@@ -77,7 +77,7 @@ const Landing2 = () => {
     }, []);
 
     return (
-        <div className="bg-blue-200 p-0 m-0">
+        <div className="bg-blue-200">
             <Navbar />
             <div className='h-[80px]'></div>
             <div>
@@ -94,7 +94,7 @@ const Landing2 = () => {
                                 alt={`College Photo ${index + 1}`}
                                 style={{
                                     width: '100%',
-                                    height: '60vh',
+                                    height: '65vh',
                                     objectPosition: '50% 25%',
                                     objectFit: 'cover',
                                     borderRadius: '0'
@@ -105,24 +105,23 @@ const Landing2 = () => {
                 </Carousel>
             </div>
 
-            {/* About Us Section */}
             <section className="p-8">
                 <div className="text-center">
-                    <p className="text-lg sm:text-4xl font-medium p-12">Your trusted source for college information and guidance. Explore our website for valuable information and resources to guide you on your academic journey.</p>
+                    <p className="text-xl sm:text-4xl font-medium p-2 sm:m-4">Your trusted source for college information and guidance. Explore our website for valuable information and resources to guide you on your academic journey.</p>
                     <button className='p-3 bg-blue-500 rounded text-2xl font-medium hover:scale-110 text-white'>
-                        <Link to="/predict">Predict your college now!</Link></button>
+                        <Link to="/predict">Predict your college now!</Link>
+                    </button>
                 </div>
             </section>
 
-            {/* Top News Section */}
             <section className='bg-white p-8'>
                 <div className="text-center flex items-center flex-col">
-                    <h2 className="text-5xl font-bold mb-4">TOP NEWS</h2>
-                    <div className={`p-8 bg-blue-100 w-fit overflow-hidden rounded-[10px] newsdiv`}>
+                    <h2 className="text-3xl sm:text-5xl font-bold mb-4">TOP NEWS</h2>
+                    <div className={`p-4 sm:p-8 bg-blue-100 w-full sm:w-fit overflow-hidden rounded-[10px] newsdiv`}>
                         <ul className="text-center newsscrollul">
                             {newsLinks.map((news, index) => (
                                 <li key={index} className='newsscrollli p-2'>
-                                    <a href={news.link} className='text-blue-500 hover:underline'>
+                                    <a href={news.link} className='text-blue-500 hover:underline' target='_blank'>
                                         <p className='text-black'>{news.title}</p>
                                         <p className='hover:underline'>{news.link}</p>
                                     </a>
