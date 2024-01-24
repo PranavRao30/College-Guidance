@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Coming+Soon&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -11,11 +11,13 @@
   font-family: "Poppins", sans-serif;
   scroll-behavior: smooth;
   color-scheme: dark;
+  user-select: none;
 }
 
 /* Add these styles to your CSS */
 .newsdiv {
-  height: auto;/* Adjust the height based on your design */
+  height: auto;
+  /* Adjust the height based on your design */
   overflow: hidden;
   position: relative;
 }
@@ -31,4 +33,64 @@
   line-height: 1;
 }
 
+.predict-button {
+  color: white;
+}
 
+.predict-button:hover {
+  background-color: white;
+  color: black;
+  transition: 0.3s ease;
+}
+
+.underline-hover {
+  position: relative;
+  text-decoration: none;
+}
+
+.underline-hover::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  /* Adjust the color as needed */
+  transform: scaleX(0);
+  transition: transform 0.3s ease-in-out;
+}
+
+.underline-hover:hover::before {
+  transform: scaleX(1);
+}
+
+.pred-bg-img {
+  background-image: url('/predbg.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.bg-overlap {
+  background-color: #8383ff8f;
+}
+
+/* ABout Us */
+
+.about-bg-img {
+  background-image: url('/bmsce3.jpg');
+  background-position: top;
+  background-size: cover;
+}
+
+.about-text h3 {
+  font-family: 'Coming Soon';
+  font-weight: 600;
+  font-size: 1.5rem;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+
+.about-about{
+  font-family: 'Coming Soon';
+}

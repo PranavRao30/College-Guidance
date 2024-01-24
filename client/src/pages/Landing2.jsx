@@ -77,9 +77,9 @@ const Landing2 = () => {
     }, []);
 
     return (
-        <div className="bg-blue-200">
+        <div className="bg-blue-100">
             <Navbar />
-            <div className='h-[80px]'></div>
+            {/* <div className='h-[80px]'></div> */}
             <div>
                 <Carousel
                     indicators={true}
@@ -94,7 +94,7 @@ const Landing2 = () => {
                                 alt={`College Photo ${index + 1}`}
                                 style={{
                                     width: '100%',
-                                    height: '65vh',
+                                    height: '75vh',
                                     objectPosition: '50% 25%',
                                     objectFit: 'cover',
                                     borderRadius: '0'
@@ -108,7 +108,7 @@ const Landing2 = () => {
             <section className="p-8">
                 <div className="text-center">
                     <p className="text-xl sm:text-4xl font-medium p-2 sm:m-4">Your trusted source for college information and guidance. Explore our website for valuable information and resources to guide you on your academic journey.</p>
-                    <button className='p-3 bg-blue-500 rounded text-2xl font-medium hover:scale-110 text-white'>
+                    <button className='p-3 bg-gray-800 rounded text-2xl font-medium predict-button'>
                         <Link to="/predict">Predict your college now!</Link>
                     </button>
                 </div>
@@ -117,11 +117,11 @@ const Landing2 = () => {
             <section className='bg-white p-8'>
                 <div className="text-center flex items-center flex-col">
                     <h2 className="text-3xl sm:text-5xl font-bold mb-4">TOP NEWS</h2>
-                    <div className={`p-4 sm:p-8 bg-blue-100 w-full sm:w-fit overflow-hidden rounded-[10px] newsdiv`}>
+                    <div className={`p-4 sm:p-8 w-full sm:w-fit overflow-hidden rounded-[10px] newsdiv bg-blue-100`}>
                         <ul className="text-center newsscrollul">
                             {newsLinks.map((news, index) => (
                                 <li key={index} className='newsscrollli p-2'>
-                                    <a href={news.link} className='text-blue-500 hover:underline' target='_blank'>
+                                    <a href={news.link} className='text-blue-800 hover:underline' target='_blank'>
                                         <p className='text-black'>{news.title}</p>
                                         <p className='hover:underline'>{news.link}</p>
                                     </a>
