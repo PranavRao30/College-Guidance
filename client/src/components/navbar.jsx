@@ -22,7 +22,7 @@ function Navbar() {
                 <ul className='list-none hidden sm:flex flex-row gap-10 text-white'>
                     <li className="p-2 text-lg font-medium underline-hover"><Link to='/predict'>Predict College</Link></li>
                     <li className="p-2 text-lg font-medium underline-hover"><Link to='/about'>About Us</Link></li>
-                    <li className="p-2 text-lg font-medium underline-hover">Contact Us</li>
+                    <li className="p-2 text-lg font-medium underline-hover"><Link to='/faq'>FAQs</Link></li>
                     <li className="p-2 text-lg font-medium underline-hover">Community</li>
                     <li><button className="p-2 bg-white text-black font-semibold rounded-[10px] text-lg hover:scale-110">LOG IN</button></li>
                 </ul>
@@ -37,7 +37,7 @@ function Navbar() {
                         <ul className='list-none flex justify-end items-start flex-col gap-4 text-white'>
                             <li><Link to='/predict'>Predict College</Link></li>
                             <li><Link to='/about'>About Us</Link></li>
-                            <li>Contact Us</li>
+                            <li><Link to='/faq'>FAQs</Link></li>
                             <li>Community</li>
                             <li><button className="p-2 bg-white text-blue-800 font-semibold rounded-[10px] text-lg hover:scale-110">LOG IN</button></li>
                         </ul>
