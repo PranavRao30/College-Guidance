@@ -24,7 +24,7 @@ function Navbar() {
                     <li className="p-2 text-lg font-medium underline-hover"><Link to='/about'>About Us</Link></li>
                     <li className="p-2 text-lg font-medium underline-hover"><Link to='/faq'>FAQs</Link></li>
                     <li className="p-2 text-lg font-medium underline-hover">Community</li>
-                    <li><button className="p-2 bg-white text-black font-semibold rounded-[10px] text-lg hover:scale-110">LOG IN</button></li>
+                    <li><Link to='/login'><button className="p-2 bg-white text-black font-semibold rounded-[10px] text-lg hover:scale-110">LOG IN</button></Link></li>
                 </ul>
                 <div className="sm:hidden flex flex-1 justify-end items-center">
                     <img
@@ -39,7 +39,7 @@ function Navbar() {
                             <li><Link to='/about'>About Us</Link></li>
                             <li><Link to='/faq'>FAQs</Link></li>
                             <li>Community</li>
-                            <li><button className="p-2 bg-white text-blue-800 font-semibold rounded-[10px] text-lg hover:scale-110">LOG IN</button></li>
+                            <li><Link to='/login'><button className="p-2 bg-white text-blue-800 font-semibold rounded-[10px] text-lg hover:scale-110">LOG IN</button></Link></li>
                         </ul>
                     </div>
                 </div>
