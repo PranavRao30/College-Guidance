@@ -8,7 +8,7 @@ function Navbar() {
 
 
     return (
-        <nav className={`px-8 sm:px-20 w-full flex items-center py-8 fixed top-0 z-20 bg-gradient-to-r from-blue-500 to-blue-900`}>
+        <nav className={`px-8 sm:px-20 w-full flex items-center py-8 fixed top-0 z-20 bg-[#8BB3FF]`}>
             <div className="w-full flex justify-between items-center mx-auto">
                 <Link
                     to="/"
@@ -17,14 +17,14 @@ function Navbar() {
                         window.scrollTo(0, 0);
                     }}
                 >
-                    <p className="text-white text-[22px] font-semibold cursor-pointer">College Guidance</p>
+                    <p className="text-[22px] font-semibold cursor-pointer">College Guidance</p>
                 </Link>
-                <ul className='list-none hidden sm:flex flex-row gap-10 text-white'>
-                    <li className="p-2 text-lg font-medium underline-hover"><Link to='/predict'>Predict College</Link></li>
-                    <li className="p-2 text-lg font-medium underline-hover"><Link to='/about'>About Us</Link></li>
-                    <li className="p-2 text-lg font-medium underline-hover"><Link to='/faq'>FAQs</Link></li>
-                    <li className="p-2 text-lg font-medium underline-hover">Community</li>
-                    <li><Link to='/login'><button className="p-2 bg-white text-black font-semibold rounded-[10px] text-lg hover:scale-110">LOG IN</button></Link></li>
+                <ul className='list-none hidden sm:flex flex-row gap-10'>
+                    <li className="p-3 text-lg font-medium underline-hover"><Link to='/predict'>Predict College</Link></li>
+                    <li className="p-3 text-lg font-medium underline-hover"><Link to='/about'>About Us</Link></li>
+                    <li className="p-3 text-lg font-medium underline-hover"><Link to='/faq'>FAQs</Link></li>
+                    <li className="p-3 text-lg font-medium underline-hover">Community</li>
+                    <li><Link to='/login'><button className="p-3 bg-white text-black font-semibold rounded-[40px] text-lg hover:scale-110">LOG IN</button></Link></li>
                 </ul>
                 <div className="sm:hidden flex flex-1 justify-end items-center">
                     <img

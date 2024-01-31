@@ -65,6 +65,10 @@
   transform: scaleX(1);
 }
 
+.underline-hover:hover{
+  color: white;
+}
+
 .pred-bg-img {
   background-image: url('/predbg.jpg');
   background-position: center;
