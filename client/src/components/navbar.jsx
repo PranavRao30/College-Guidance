@@ -20,9 +20,9 @@ function Navbar() {
                     <p className="text-[22px] font-semibold cursor-pointer">College Guidance</p>
                 </Link>
                 <ul className='list-none hidden sm:flex flex-row gap-10'>
-                    <li className="p-3 text-lg font-medium underline-hover"><Link to='/predict'>Predict College</Link></li>
-                    <li className="p-3 text-lg font-medium underline-hover"><Link to='/about'>About Us</Link></li>
-                    <li className="p-3 text-lg font-medium underline-hover"><Link to='/faq'>FAQs</Link></li>
+                    <Link to='/predict'><li className="p-3 text-lg font-medium underline-hover">Predict College</li></Link>
+                    <Link to='/about'><li className="p-3 text-lg font-medium underline-hover">About Us</li></Link>
+                    <Link to='/faq'><li className="p-3 text-lg font-medium underline-hover">FAQs</li></Link>
                     <li className="p-3 text-lg font-medium underline-hover">Community</li>
                     <li><Link to='/login'><button className="p-3 bg-white text-black font-semibold rounded-[40px] text-lg hover:scale-110">LOG IN</button></Link></li>
                 </ul>

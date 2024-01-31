@@ -39,16 +39,16 @@ const FAQ = () => {
     };
 
     return (
-        <div className="bg-blue-100 min-h-screen pt-[120px]">
+        <div className="bg-[#8BB3FF] min-h-screen pt-[120px]">
             <Navbar />
             <div className="p-8 sm:px-40 text-center">
                 <h1 className="text-4xl font-semibold p-4 mb-4">Frequently Asked Questions</h1>
                 {faqData.map((faq, index) => (
-                    <div key={index} className="mb-6 p-3 bg-blue-200 rounded-[10px]">
-                        <div className="flex items-center justify-between bg-blue-200">
+                    <div key={index} className="mb-6 p-3 bg-[#DBEAFE] rounded-[10px]">
+                        <div className="flex items-center justify-between bg-[#DBEAFE]">
                             <h2 className="text-2xl font-medium">{faq.question}</h2>
                             <button
-                                className="bg-blue-500 text-white p-3 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:border-blue-300"
+                                className="bg-[#8BB3FF] text-white p-3 rounded-md hover:bg-black"
                                 onClick={() => toggleAnswer(index)}
                             >
                                 {expandedAnswers[index] ? <RemoveIcon /> : <AddIcon />}

@@ -41,12 +41,12 @@ const Prediction = () => {
               </label>
               <button
                 type="submit"
-                className="bg-blue-800 text-white p-3 rounded-md hover:bg-blue-500 focus:outline-none focus:ring focus:border-blue-300 text-xl"
+                className="bg-[#DBEAFE] text-black p-3 rounded-[30px] border-4 hover:bg-transparent hover:text-[#DBEAFE] text-xl font-semibold"
               >
                 Get College Recommendations
               </button>
             </form>
-            <div className={`bg-blue-500 text-white w-screen sm:w-fit p-2 ${collegeData.length ? 'rounded' : 'hidden'}`}>
+            <div className={`bg-[#DBEAFE] text-black w-screen sm:w-fit p-2 ${collegeData.length ? 'rounded' : 'hidden'}`}>
               <div className="overflow-x-auto">
                 <table className="w-full text-md">
                   <thead>

@@ -7,9 +7,9 @@ const SignupPage = () => {
   return (
     <>
     <Navbar />
-    <div className="flex items-center justify-center h-screen bg-blue-100">
-      <div className="bg-white p-8 rounded shadow-md w-96">
-        <h2 className="text-2xl font-bold mb-6 text-blue-500 text-center">Sign Up</h2>
+    <div className="flex items-center justify-center h-screen bg-[#DBEAFE]">
+      <div className="bg-white p-8 rounded-4 drop-shadow-md w-96">
+        <h2 className="text-2xl font-bold mb-6 text-[#8BB3FF] text-center">Sign Up</h2>
         <form className="flex flex-col">
           <label htmlFor="name" className="text-sm font-medium text-gray-600 mb-2">
             Name:
@@ -29,7 +29,7 @@ const SignupPage = () => {
           </label>
           <input type="password" id="password" className="bg-blue-100 p-2 rounded mb-4" />
 
-          <button type="submit" className="btn bg-blue-800 text-white hover:bg-gray-800 mb-4 p-2 text-semibold">
+          <button type="submit" className="btn bg-[#8BB3FF] text-white hover:bg-gray-800 mb-4 p-2 font-semibold">
             SUBMIT
           </button>
         </form>
