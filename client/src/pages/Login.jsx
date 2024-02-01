@@ -1,5 +1,5 @@
 import React from 'react';
-import Footer from '../components/footer';
+import Footer from '../components/footer2';
 import Navbar from '../components/navbar';
 import { Link } from 'react-router-dom';
 

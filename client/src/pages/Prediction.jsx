@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import Navbar from '../components/navbar';
-import Footer from '../components/footer';
+import Footer from '../components/footer2';
 
 const Prediction = () => {
-  // const backendPort = 'https://college-guidance-backend.onrender.com';
-  const backendPort = 'http://localhost:3000';
+  const backendPort = 'https://college-guidance-backend.onrender.com';
+  // const backendPort = 'http://localhost:3000';
   const [num, setNum] = useState(null);
   const [collegeData, setCollegeData] = useState([]);
 

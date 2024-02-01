@@ -33,13 +33,13 @@ function Navbar() {
                         className="w-[28px] h-[28px] object-contain cursor-pointer"
                         onClick={() => setToggle(!toggle)}
                     />
-                    <div className={`${!toggle ? 'hidden' : 'flex'} p-6 bg-blue-600 absolute top-20 right-0 mx-4 my-2 min-w-[140px] z-10 rounded-xl`}>
-                        <ul className='list-none flex justify-end items-start flex-col gap-4 text-white'>
+                    <div className={`${!toggle ? 'hidden' : 'flex'} p-6 bg-white absolute top-20 right-0 mx-4 my-2 min-w-[140px] z-10 rounded-xl`}>
+                        <ul className='list-none flex justify-end items-start flex-col gap-4 text-[#8BB3FF]'>
                             <li><Link to='/predict'>Predict College</Link></li>
                             <li><Link to='/about'>About Us</Link></li>
                             <li><Link to='/faq'>FAQs</Link></li>
                             <li>Community</li>
-                            <li><Link to='/login'><button className="p-2 bg-white text-blue-800 font-semibold rounded-[10px] text-lg hover:scale-110">LOG IN</button></Link></li>
+                            <li><Link to='/login'><button className="p-2 bg-[#DBEAFE] text-blue-800 font-semibold rounded-[10px] text-lg hover:scale-110">LOG IN</button></Link></li>
                         </ul>
                     </div>
                 </div>

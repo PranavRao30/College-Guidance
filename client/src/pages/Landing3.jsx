@@ -1,8 +1,10 @@
 import React, {useState, useEffect} from 'react'
 import Navbar from '../components/navbar'
 import { Link } from 'react-router-dom'
-import Footer from '../components/footer'
+import Footer from '../components/footer2'
 import AccountBalanceIcon from '@mui/icons-material/AccountBalance';
+import GroupIcon from '@mui/icons-material/Group';
+import BookmarkAddIcon from '@mui/icons-material/BookmarkAdd';
 
 const Landing3 = () => {
     const newsLinks = [
@@ -88,32 +90,32 @@ const Landing3 = () => {
                             <AccountBalanceIcon className='scale-[3.5] m-4 mb-12' />
                         </div>
                         <div>
-                            <p className='text-2xl font-semibold m-2'>College Prediction</p>
+                            <p className='text-2xl font-semibold m-2 text-center'>College Prediction</p>
                         </div>
                         <div>
-                            <p className='text-justify'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                        </div>
-                    </div>
-                    <div className='bg-[#8BB3FF] flex flex-col justify-center items-center p-8 rounded-4 w-full sm:w-3/12'>
-                        <div>
-                            <AccountBalanceIcon className='scale-[3.5] m-4 mb-12' />
-                        </div>
-                        <div>
-                            <p className='text-2xl font-semibold m-2'>College Prediction</p>
-                        </div>
-                        <div>
-                            <p className='text-justify'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                            <p className='text-justify'>Gain insights into your college admissions with our advanced prediction algorithm. Input your exam rank, and our system will analyze historical data, admission trends, and college statistics to provide you with personalized predictions. Make informed decisions about your academic future with confidence.</p>
                         </div>
                     </div>
                     <div className='bg-[#8BB3FF] flex flex-col justify-center items-center p-8 rounded-4 w-full sm:w-3/12'>
                         <div>
-                            <AccountBalanceIcon className='scale-[3.5] m-4 mb-12' />
+                            <GroupIcon className='scale-[3.5] m-4 mb-12' />
                         </div>
                         <div>
-                            <p className='text-2xl font-semibold m-2'>College Prediction</p>
+                            <p className='text-2xl font-semibold m-2 text-center'>Community</p>
                         </div>
                         <div>
-                            <p className='text-justify'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                            <p className='text-justify'>Connect with a diverse community of students and educators in our interactive Community Chat. Discuss exam preparation strategies and seek advice on career choices. This open forum fosters networking, and the exchange of valuable insights, creating a supportive environment.</p>
+                        </div>
+                    </div>
+                    <div className='bg-[#8BB3FF] flex flex-col justify-center items-center p-8 rounded-4 w-full sm:w-3/12'>
+                        <div>
+                            <BookmarkAddIcon className='scale-[3.5] m-4 mb-12' />
+                        </div>
+                        <div>
+                            <p className='text-2xl font-semibold m-2 text-center'>Bookmark Favourites</p>
+                        </div>
+                        <div>
+                            <p className='text-justify'>Keep track of colleges that catch your interest by using our Bookmark feature. Easily save and organize a list of your favorite colleges, making it convenient to revisit and compare them later. Whether you're exploring options or planning your applications, this tool helps you curate a personalized collection of colleges.</p>
                         </div>
                     </div>
                 </div>
