@@ -17,7 +17,7 @@ function Navbar() {
                         window.scrollTo(0, 0);
                     }}
                 >
-                    <p className="text-[22px] font-semibold cursor-pointer">College Guidance</p>
+                    <p className="text-[22px] font-semibold cursor-pointer">College Compass</p>
                 </Link>
                 <ul className='list-none hidden sm:flex flex-row gap-10'>
                     <Link to='/predict'><li className="p-3 text-lg font-medium underline-hover">Predict College</li></Link>
