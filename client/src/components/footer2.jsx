@@ -5,8 +5,10 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 
 const Footer = () => {
-    const handleSubscribe = () => {
-        alert(`Email ID: ${document.getElementById('sub').value} is successfully subscribed for News-letters.\nStay tuned for more updates!`);
+    const handleSubscribe = (event) => {
+        event.preventDefault();
+        if (document.getElementById('sub').value !== "")
+            alert(`Email ID: ${document.getElementById('sub').value} is successfully subscribed for News-letters.\nStay tuned for more updates!`);
     };
 
     return (
@@ -18,11 +20,12 @@ const Footer = () => {
                     <li className='mb-2 hover:text-[#8BB3FF] transition-colors duration-300'><a href="#">News Updates</a></li>
                     <li className='mb-2 hover:text-[#8BB3FF] transition-colors duration-300'><a href="#">Admission Notifications</a></li>
                     <p className='mb-2'>Subscribe for News-Letters</p>
-
-                    <li className=''>Email ID: <input id='sub' placeholder="Enter your email-Id..." className="rounded p-1 ml-1" /></li>
-                    <div className="mt-2">
-                        <button onClick={handleSubscribe} className="bg-[#DBEAFE] text-black px-4 py-2 rounded hover:bg-[#8BB3FF] transition-colors duration-300">Subscribe</button>
-                    </div>
+                    <form onSubmit={handleSubscribe}>
+                        <li className=''>Email ID: <input type='email' id='sub' placeholder="Enter your email-Id..." className="rounded p-1 ml-1" /></li>
+                        <div className="mt-2">
+                            <button type='submit' className="bg-[#DBEAFE] text-black px-4 py-2 rounded hover:bg-[#8BB3FF] transition-colors duration-300">Subscribe</button>
+                        </div>
+                    </form>
                 </ul>
 
                 <ul className="text-left">

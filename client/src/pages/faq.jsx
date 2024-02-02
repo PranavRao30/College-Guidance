@@ -7,7 +7,7 @@ import RemoveIcon from '@mui/icons-material/Remove';
 const FAQ = () => {
     const faqData = [
         {
-            question: 'How can I predict my college using College Guidance?',
+            question: 'How can I predict my college using College Compass?',
             answer: 'You can use our "Predict College" feature by entering your rank. The system will provide you with college recommendations based on your input.',
         },
         {
@@ -15,15 +15,15 @@ const FAQ = () => {
             answer: 'The college prediction feature provides estimations based on available data. It\'s important to note that actual admissions may vary, and users are encouraged to verify information independently.',
         },
         {
-            question: 'What services does College Guidance provide?',
-            answer: 'College Guidance offers comprehensive information and guidance related to colleges, courses, and educational pathways. Our platform aims to assist students in making informed decisions about their academic journey.',
+            question: 'What services does College Compass provide?',
+            answer: 'College Compass offers comprehensive information and guidance related to colleges, courses, and educational pathways. Our platform aims to assist students in making informed decisions about their academic journey.',
         },
         {
-            question: 'Is College Guidance free to use?',
-            answer: 'Yes, College Guidance is a free platform designed to help students explore and navigate the college selection process.',
+            question: 'Is College Compass free to use?',
+            answer: 'Yes, College Compass is a free platform designed to help students explore and navigate the college selection process.',
         },
         {
-            question: 'How can I contact the College Guidance team?',
+            question: 'How can I contact the College Compass team?',
             answer: 'You can reach out to us through collegeguidance@gmail.com. We welcome feedback, suggestions, and any inquiries you may have.',
         },
     ];

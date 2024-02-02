@@ -2,6 +2,8 @@ import React, { useEffect, useState } from "react";
 import { Link } from 'react-router-dom';
 import menu from '../assets/menu.svg';
 import close from '../assets/close.svg';
+import ExploreIcon from '@mui/icons-material/Explore';
+
 
 function Navbar() {
     const [toggle, setToggle] = useState(false);
@@ -17,7 +19,7 @@ function Navbar() {
                         window.scrollTo(0, 0);
                     }}
                 >
-                    <p className="text-[22px] font-semibold cursor-pointer">College Compass</p>
+                    <p className="text-[22px] font-semibold cursor-pointer"><ExploreIcon className="scale-[2] m-3"/>College Compass</p>
                 </Link>
                 <ul className='list-none hidden sm:flex flex-row gap-10'>
                     <Link to='/predict'><li className="p-3 text-lg font-medium underline-hover">Predict College</li></Link>
