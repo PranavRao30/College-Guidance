@@ -12,9 +12,9 @@ const Footer = () => {
     };
 
     return (
-        <footer className="bg-gray-900 text-[#DBEAFE] text-sm sm:text-md">
+        <footer className="bg-gray-900 text-[#DBEAFE] text-sm sm:text-md overflow-hidden">
 
-            <div className="flex justify-around py-8">
+            <div className="flex justify-around py-8 overflow-hidden">
                 <ul className="text-left">
                     <li className='mb-2 hover:text-[#8BB3FF] transition-colors duration-300'><a href="#">College Notifications</a></li>
                     <li className='mb-2 hover:text-[#8BB3FF] transition-colors duration-300'><a href="#">News Updates</a></li>
@@ -38,11 +38,11 @@ const Footer = () => {
 
                 <div className="text-center text-[#DBEAFE]">
                     <p className='mb-2 '>Contact Us</p>
-                    <div className='flex gap-2'>
-                        <a href="https://www.instagram.com/" className='hover:text-[#8BB3FF] transition-colors duration-300'><InstagramIcon /></a>
-                        <a href="https://www.linkedin.com/" className='hover:text-[#8BB3FF] transition-colors duration-300'><LinkedInIcon /></a>
-                        <a href="https://www.facebook.com/" className='hover:text-[#8BB3FF] transition-colors duration-300'><FacebookIcon /></a>
-                        <a href="https://www.whatsapp.com/" className='hover:text-[#8BB3FF] transition-colors duration-300'><WhatsAppIcon /></a>
+                    <div className='flex gap-2 flex-col sm:flex-row'>
+                        <div><a href="https://www.instagram.com/" className='hover:text-[#8BB3FF] transition-colors duration-300'><InstagramIcon /></a></div>
+                        <div><a href="https://www.linkedin.com/" className='hover:text-[#8BB3FF] transition-colors duration-300'><LinkedInIcon /></a></div>
+                        <div><a href="https://www.facebook.com/" className='hover:text-[#8BB3FF] transition-colors duration-300'><FacebookIcon /></a></div>
+                        <div><a href="https://www.whatsapp.com/" className='hover:text-[#8BB3FF] transition-colors duration-300'><WhatsAppIcon /></a></div>
                     </div>
                 </div>
             </div>
