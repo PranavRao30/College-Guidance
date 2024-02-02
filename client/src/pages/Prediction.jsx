@@ -4,19 +4,25 @@ import Navbar from '../components/navbar';
 import Footer from '../components/footer2';
 
 const Prediction = () => {
-  const backendPort = 'https://college-guidance-backend.onrender.com';
-  // const backendPort = 'http://localhost:3000';
-  const [num, setNum] = useState(null);
+  // const backendPort = 'https://college-guidance-backend.onrender.com';
+  const backendPort = 'http://localhost:3000';
+  const [form, setForm] = useState({});
   const [collegeData, setCollegeData] = useState([]);
 
   const handleChange = (event) => {
+    const name = event.target.name;
     const value = event.target.value;
-    setNum(value);
+
+    setForm((prevValue) => ({
+      ...prevValue,
+      [name]: value,
+    }))
   };
 
   const handleSubmit = async (event) => {
     event.preventDefault();
-    const response = await axios.post(`${backendPort}/api/getCollege`, { num: num });
+    const response = await axios.post(`${backendPort}/api/getCollege`, { input: form });
+    console.log(form);
     setCollegeData(response.data);
   };
 
@@ -33,11 +39,42 @@ const Prediction = () => {
                 <input
                   type="number"
                   name="num"
-                  value={num}
+                  value={form.num || ""}
                   onChange={handleChange}
                   className="border p-2 rounded-md bg-white text-black"
                   required
                 />
+                <select
+                  name="cat"
+                  value={form.cat || ""}
+                  onChange={handleChange}
+                  className="mt-1 block w-full border-gray-300 rounded-md shadow-sm bg-white text-black p-2"
+                >
+                  <option value="" disabled>Select Cutoff Category</option>
+                  <option value="GM">GM</option>
+                  <option value="GMR">GMR</option>
+                  <option value="GMK">GMK</option>
+                  <option value="1G">1G</option>
+                  <option value="1K">1K</option>
+                  <option value="1R">1R</option>
+                  <option value="2AG">2AG</option>
+                  <option value="2AK">2AK</option>
+                  <option value="2AR">2AR</option>
+                  <option value="2BG">2BG</option>
+                  <option value="2BR">2BR</option>
+                  <option value="3AG">3AG</option>
+                  <option value="3AK">3AK</option>
+                  <option value="3AR">3AR</option>
+                  <option value="3BG">3BG</option>
+                  <option value="3BK">3BK</option>
+                  <option value="3BR">3BR</option>
+                  <option value="SCG">SCG</option>
+                  <option value="SCK">SCK</option>
+                  <option value="SCR">SCR</option>
+                  <option value="STG">STG</option>
+                  <option value="STK">STK</option>
+                  <option value="STR">STR</option>
+                </select>
               </label>
               <button
                 type="submit"
