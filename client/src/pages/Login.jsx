@@ -20,10 +20,12 @@ const LoginPage = () => {
       ...form,
       [name]: value,
     })
+    console.log(form);
   }
 
   const handleSubmit = async (event) => {
     event.preventDefault();
+    console.log(form);
     const { data } = await axios.post(backendPort + 'auth/login', form);
     if (data.error) {
       setMessage(data.error);
@@ -45,12 +47,12 @@ const LoginPage = () => {
           <label htmlFor="email" className="text-sm font-medium text-gray-600 mb-2">
             Email:
           </label>
-          <input type="email" id="email" value={form.email} onChange={handleChange} className="bg-blue-100 p-2 rounded mb-4" />
+          <input type="email" name="email" id="email" value={form.email} onChange={handleChange} className="bg-blue-100 p-2 rounded mb-4" />
 
           <label htmlFor="password" className="text-sm font-medium text-gray-600 mb-2">
             Password:
           </label>
-          <input type="password" id="password" value={form.password} onChange={handleChange} className="bg-blue-100 p-2 rounded mb-4" />
+          <input type="password" name="password" id="password" value={form.password} onChange={handleChange} className="bg-blue-100 p-2 rounded mb-4" />
 
           <button type="submit" className="btn bg-[#8BB3FF] text-white hover:bg-gray-800 mb-4 p-2 font-semibold">
             SUBMIT

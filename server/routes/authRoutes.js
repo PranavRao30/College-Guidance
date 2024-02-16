@@ -58,7 +58,9 @@ router.post('/login', async(req, res, next) => {
   const username = req.body.email;
   const password = req.body.password;
 
-  const user = await User.findOne({username});
+  console.log(username);
+
+  const user = await User.findOne({username: username});
   if(!user){
     return res.json({error: "No user found"});
   }  
@@ -81,12 +83,6 @@ router.post('/login', async(req, res, next) => {
     }
   });
 
-});
-
-
-router.get('/logout', (req, res) => {
-  req.logout();
-  res.sendStatus(200).json({ message: 'Logout successful' });
 });
 
 module.exports = router;

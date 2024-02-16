@@ -26,6 +26,7 @@ const STG = require('../jsonFiles/STGCutoff.json');
 const STK = require('../jsonFiles/STKCutoff.json');
 const STR = require('../jsonFiles/STRCutoff.json');
 const collegeCodes = require('../jsonFiles/CollegeCodesFinal.json');
+const User = require('../models/user');
 
 const authenticateToken = (req, res, next) => {
     const token = req.header('Authorization');
@@ -45,13 +46,18 @@ const authenticateToken = (req, res, next) => {
     });
 };
 
-router.get('/user-details', authenticateToken, (req, res) => {
-    const token = req.header('Authorization');
-    const decodedToken = jwt.decode(token.replace('Bearer ', ''), { complete: true });
-    const payload = decodedToken.payload;
-    console.log(payload);
+router.get('/user-details', authenticateToken, async (req, res) => {
+    // const token = req.header('Authorization');
+    // console.log("Token again: " ,token);
+    // const decodedToken = jwt.decode(token.replace('Bearer ', ''), { complete: true });
+    // const payload = decodedToken.payload;
+    // console.log(payload);
 
-    res.json(payload);
+    // res.json(payload);
+    const user = req.user;
+    const fulldetails = await User.findOne({username: user.email});
+    console.log(fulldetails);
+    res.json(fulldetails);
 });
 
 router.post('/getCollege', (req, res) => {

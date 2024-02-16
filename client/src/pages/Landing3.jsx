@@ -77,12 +77,12 @@ const Landing3 = () => {
                     <Link to='/predict'><button className='bg-[#DBEAFE] p-3 rounded-[40px] font-semibold text-xl border-[4px] border-[#DBEAFE] hover:bg-transparent'>PREDICT NOW</button></Link>
                 </div>
                 <div className='pr-80'>
-                    <img src='/Illustration 2 final.png' className='hidden sm:block relative bottom-[-250px] scale-[3.87] z-[0]'></img>
+                    <img src='/Illustration 2 final.png' className='hidden sm:block relative bottom-[-250px] scale-[3.87] z-10'></img>
                 </div>
             </div>
 
 
-            <div className='bg-[#DBEAFE] p-12 z-[10]'>
+            <div className='bg-[#DBEAFE] p-12 z-20'>
                 <h1 className='text-5xl font-bold m-4 sm:mb-20 text-center'>OUR SERVICES</h1>
                 <div className='flex flex-col sm:flex-row flex-wrap justify-center items-center gap-12'>
                     <div className='bg-[#8BB3FF] flex flex-col justify-center items-center p-8 rounded-4 w-full sm:w-3/12'>
