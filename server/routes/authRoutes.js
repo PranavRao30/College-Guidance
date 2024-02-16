@@ -5,6 +5,7 @@ const router = express.Router();
 const bcrypt = require('bcrypt');
 const saltRounds = 10;
 const jwt = require('jsonwebtoken');
+const bodyParser = require('body-parser');
 
 router.post("/register", async(req, res) => {
 
@@ -36,7 +37,7 @@ router.post("/register", async(req, res) => {
           name,
           username, 
           password: hash,
-          history: {},
+          collegeData: [],
         });
         jwt.sign({email: username, id: user._id}, process.env.SECRET_KEY, {}, (err, token) => {
           if(err) throw err;
@@ -68,7 +69,7 @@ router.post('/login', async(req, res, next) => {
     }
     if(result === true){
       jwt.sign({email: username, id: user._id}, process.env.SECRET_KEY, {
-        expiresIn: 300
+        expiresIn: '1h'
       }, (err, token) => {
         if(err) throw err;
         console.log(token);

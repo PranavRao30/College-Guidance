@@ -49,6 +49,7 @@ const Prediction = () => {
                   value={form.cat || ""}
                   onChange={handleChange}
                   className="mt-1 block w-full border-gray-300 rounded-md shadow-sm bg-white text-black p-2"
+                  required
                 >
                   <option value="" disabled>Select Cutoff Category</option>
                   <option value="GM">GM</option>

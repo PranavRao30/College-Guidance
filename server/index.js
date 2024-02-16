@@ -6,6 +6,9 @@ const mongoose = require('mongoose');
 const authRoutes = require('./routes/authRoutes');
 const cookieParser = require('cookie-parser');
 const apiRoutes = require('./routes/apiRoutes');
+const mongopass = process.env.MONGOPASS
+const mongousername = process.env.MONGOUSERNAME
+const mongouri = `mongodb+srv://${mongousername}:${mongopass}@cluster0.vf2btw4.mongodb.net/?retryWrites=true&w=majority`
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -20,6 +23,8 @@ app.use(bodyParser.urlencoded({
 }));
 app.use(express.json());
 app.use(cookieParser());
+
+mongoose.connect(mongouri, {dbName: 'College-Guidance'});
 
 app.use("/auth", authRoutes);
 
