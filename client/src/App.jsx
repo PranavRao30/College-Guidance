@@ -9,6 +9,7 @@ import SignupPage from './pages/Register';
 import LoginPage from './pages/Login';
 import Landing3 from './pages/Landing3';
 import Profile from './pages/Profile';
+import Community from './pages/Community';
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
         <Route path="/login" element={<LoginPage />} />
         <Route path="/register" element={<SignupPage />} />
         <Route path="/profile" element={<Profile />} />
+        <Route path="/community" element={<Community />} />
       </Routes>
     </BrowserRouter>
   )

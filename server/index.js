@@ -6,6 +6,7 @@ const mongoose = require('mongoose');
 const authRoutes = require('./routes/authRoutes');
 const cookieParser = require('cookie-parser');
 const apiRoutes = require('./routes/apiRoutes');
+const messageRoutes = require('./routes/messageRoutes');
 const mongopass = process.env.MONGOPASS
 const mongousername = process.env.MONGOUSERNAME
 const mongouri = `mongodb+srv://${mongousername}:${mongopass}@cluster0.vf2btw4.mongodb.net/?retryWrites=true&w=majority`
@@ -30,6 +31,7 @@ app.use("/auth", authRoutes);
 
 app.use("/api", apiRoutes);
 
+app.use('/messages', messageRoutes);
 
 app.listen(port, (req, res) => {
     console.log(`Server up and running on port ${port}`)

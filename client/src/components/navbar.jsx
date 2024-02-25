@@ -35,7 +35,7 @@ function Navbar() {
                     <Link to='/predict'><li className="p-3 text-lg font-medium underline-hover">Predict College</li></Link>
                     <Link to='/about'><li className="p-3 text-lg font-medium underline-hover">About Us</li></Link>
                     <Link to='/faq'><li className="p-3 text-lg font-medium underline-hover">FAQs</li></Link>
-                    <li className="p-3 text-lg font-medium underline-hover">Community</li>
+                    <Link to='/community'><li className="p-3 text-lg font-medium underline-hover">Community</li></Link>
                     {isLoggedIn ? (
                         <li><Link to='/profile'><AccountCircleIcon className="scale-[2] m-3" /></Link></li>
                     ) : (
