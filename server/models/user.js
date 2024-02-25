@@ -28,7 +28,7 @@ const userSchema = new mongoose.Schema({
         type: String,
         required: true,
       },
-      cutoff: {
+      rank: {
         type: Number,
         required: true,
       },

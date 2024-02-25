@@ -55,7 +55,7 @@ router.get('/user-details', authenticateToken, async (req, res) => {
 
     // res.json(payload);
     const user = req.user;
-    const fulldetails = await User.findOne({username: user.email});
+    const fulldetails = await User.findOne({ username: user.email });
     console.log(fulldetails);
     res.json(fulldetails);
 });
@@ -112,6 +112,88 @@ router.post('/getCollege', (req, res) => {
     }
     console.log(lst);
     res.send(lst);
+});
+
+router.post('/bookmark', authenticateToken, async (req, res) => {
+    try {
+        const collegeId = req.body;
+        const user = req.user;
+        const fulldetails = await User.findOne({ username: user.email });
+
+        let updatedUser;
+
+        if (collegeId.college.remove) {
+            console.log(collegeId.college);
+            updatedUser = await User.findByIdAndUpdate(
+                fulldetails._id,
+                {
+                    $pull: {
+                        'collegeData': {
+                            college: collegeId.college.college,
+                            branch: collegeId.college.branch,
+                            category: collegeId.college.category,
+                            rank: collegeId.college.rank
+                        }
+                    }
+                }
+            );
+        }
+        else {
+            updatedUser = await User.findByIdAndUpdate(
+                fulldetails._id,
+                {
+                    $addToSet: {
+                        'collegeData': {
+                            college: collegeId.college.college,
+                            branch: collegeId.college.branch,
+                            category: collegeId.college.category,
+                            rank: collegeId.college.rank
+                        }
+                    }
+                },
+                { new: true }
+            );
+        }
+
+        console.log(updatedUser);
+
+        res.json(updatedUser);
+    } catch (error) {
+        console.error('Error bookmarking college:', error);
+        res.status(500).json({ error: 'Internal Server Error' });
+    }
+});
+
+router.post('/bookmark/remove', authenticateToken, async (req, res) => {
+    try {
+        const collegeId = req.body;
+        const user = req.user;
+        const fulldetails = await User.findOne({ username: user.email });
+
+        let updatedUser;
+
+        console.log(collegeId.college);
+        updatedUser = await User.findByIdAndUpdate(
+            fulldetails._id,
+            {
+                $pull: {
+                    'collegeData': {
+                        college: collegeId.college.college,
+                        branch: collegeId.college.branch,
+                        category: collegeId.college.category,
+                        rank: collegeId.college.rank
+                    }
+                }
+            }
+        );
+
+        console.log(updatedUser);
+
+        res.json(updatedUser);
+    } catch (error) {
+        console.error('Error bookmarking college:', error);
+        res.status(500).json({ error: 'Internal Server Error' });
+    }
 });
 
 module.exports = router;

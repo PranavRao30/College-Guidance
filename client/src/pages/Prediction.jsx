@@ -1,7 +1,9 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Navbar from '../components/navbar';
 import Footer from '../components/footer2';
+import BookmarkBorderIcon from '@mui/icons-material/BookmarkBorder';
+import BookmarkIcon from '@mui/icons-material/Bookmark';
 
 const Prediction = () => {
   // const backendPort = 'https://college-guidance-backend.onrender.com';
@@ -25,6 +27,71 @@ const Prediction = () => {
     console.log(form);
     setCollegeData(response.data);
   };
+
+  const [userDetails, setUserDetails] = useState(null);
+  const [bookmarkedColleges, setBookmarkedColleges] = useState([]);
+
+  useEffect(() => {
+    const token = localStorage.getItem('token');
+
+    if (token) {
+      axios.get(`${backendPort}/api/user-details`, { headers: { Authorization: `Bearer ${token}` } })
+        .then(response => {
+          setUserDetails(response.data);
+          const bookmarkedColleges = response.data.collegeData.map(bookmark => ({
+            college: bookmark.college,
+            branch: bookmark.branch,
+            category: bookmark.category,
+          }));
+          setBookmarkedColleges(bookmarkedColleges);
+        })
+        .catch(error => {
+          console.error('Error fetching user details:', error);
+        });
+    } else {
+      console.error('Token not found in localStorage');
+    }
+  }, []);
+
+  const isBookmarked = (college) => {
+    return !!bookmarkedColleges.find(bookmark =>
+      bookmark.college === college[2] &&
+      bookmark.branch === college[1] &&
+      bookmark.category === form.cat
+    );
+  };
+
+
+  const handleBookmark = async (college) => {
+    const token = localStorage.getItem('token');
+  
+    try {
+      let updatedBookmarks;
+      if (college.remove) {
+        updatedBookmarks = bookmarkedColleges.filter(
+          bookmark => !(bookmark.college === college.college && bookmark.branch === college.branch && bookmark.category === form.cat)
+        );
+      } else {
+        updatedBookmarks = [...bookmarkedColleges, { college: college.college, branch: college.branch, category: form.cat }];
+      }
+  
+      setBookmarkedColleges(updatedBookmarks);
+  
+      if (token) {
+        const response = await axios.post(
+          `${backendPort}/api/bookmark`,
+          { college },
+          { headers: { Authorization: `Bearer ${token}` } }
+        );
+        console.log('Bookmark added:', response.data);
+      } else {
+        console.error('Token not found in localStorage');
+      }
+    } catch (error) {
+      console.error('Error updating bookmark:', error);
+    }
+  };
+  
 
   return (
     <>
@@ -92,6 +159,7 @@ const Prediction = () => {
                       <th className="m-2 p-2 font-semibold text-lg">Cutoff</th>
                       <th className="m-2 p-2 font-semibold text-lg">Branch</th>
                       <th className="m-2 p-2 font-semibold text-lg">College</th>
+                      {userDetails && <th className="m-2 p-2 font-semibold text-lg">Bookmark</th>}
                     </tr>
                   </thead>
                   <tbody>
@@ -100,6 +168,19 @@ const Prediction = () => {
                         <td className="m-2 p-2">{college[0]}</td>
                         <td className="m-2 p-2">{college[1]}</td>
                         <td className="m-2 p-2">{college[2]}</td>
+                        {userDetails && (
+                          <td className="m-2 p-2">
+                            {isBookmarked(college) ? (
+                              <button onClick={() => handleBookmark({ college: college[2], branch: college[1], category: form.cat, rank: college[0], remove: true })} >
+                                <BookmarkIcon />
+                              </button>
+                            ) : (
+                              <button onClick={() => handleBookmark({ college: college[2], branch: college[1], category: form.cat, rank: college[0], remove: false })} >
+                                <BookmarkBorderIcon />
+                              </button>
+                            )}
+                          </td>
+                        )}
                       </tr>
                     ))}
                   </tbody>
