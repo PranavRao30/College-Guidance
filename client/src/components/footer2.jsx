@@ -21,7 +21,7 @@ const Footer = () => {
                     <li className='mb-2 hover:text-[#8BB3FF] transition-colors duration-300'><a href="#">Admission Notifications</a></li>
                     <p className='mb-2'>Subscribe for News-Letters</p>
                     <form onSubmit={handleSubscribe}>
-                        <li className=''>Email ID: <input type='email' id='sub' placeholder="Enter your email-Id..." className="rounded p-1 ml-1" /></li>
+                        <li className=''>Email ID: <input type='email' id='sub' placeholder="Enter your email-Id..." className="rounded p-1 ml-1 text-[#000]" /></li>
                         <div className="mt-2">
                             <button type='submit' className="bg-[#DBEAFE] text-black px-4 py-2 rounded hover:bg-[#8BB3FF] transition-colors duration-300">Subscribe</button>
                         </div>

@@ -118,7 +118,7 @@ const Prediction = () => {
                   className="mt-1 block w-full border-gray-300 rounded-md shadow-sm bg-white text-black p-2"
                   required
                 >
-                  <option value="" disabled>Select Cutoff Category</option>
+                  <option value="" disabled>Select Category</option>
                   <option value="GM">GM</option>
                   <option value="GMR">GMR</option>
                   <option value="GMK">GMK</option>

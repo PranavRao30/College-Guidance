@@ -24,7 +24,7 @@ const FAQ = () => {
         },
         {
             question: 'How can I contact the College Compass team?',
-            answer: 'You can reach out to us through collegeguidance@gmail.com. We welcome feedback, suggestions, and any inquiries you may have.',
+            answer: 'You can reach out to us through support@collegecompass.com. We welcome feedback, suggestions, and any inquiries you may have.',
         },
     ];
 
