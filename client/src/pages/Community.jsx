@@ -5,7 +5,8 @@ import Navbar from '../components/navbar';
 import SendIcon from '@mui/icons-material/Send';
 
 const Community = () => {
-    const backendPort = 'http://localhost:3000';
+    // const backendPort = 'http://localhost:3000';
+    const backendPort = 'https://college-guidance-backend.onrender.com';
     const token = localStorage.getItem('token');
     const [userDetails, setUserDetails] = useState(null);
     const [messages, setMessages] = useState([]);
