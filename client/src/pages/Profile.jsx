@@ -6,8 +6,8 @@ import Footer from '../components/footer2';
 import ProfileCard from '../components/profileCard';
 
 const Profile = () => {
-  // const backendPort = 'http://localhost:3000';
-  const backendPort = 'https://college-guidance-backend.onrender.com';
+  const backendPort = 'http://localhost:3000';
+  // const backendPort = 'https://college-guidance-backend.onrender.com';
 
   const [userDetails, setUserDetails] = useState(null);
   const [bookmarkedColleges, setBookmarkedColleges] = useState([]);

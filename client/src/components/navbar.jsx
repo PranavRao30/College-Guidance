@@ -54,7 +54,7 @@ function Navbar() {
                             <li><Link to='/predict'>Predict College</Link></li>
                             <li><Link to='/about'>About Us</Link></li>
                             <li><Link to='/faq'>FAQs</Link></li>
-                            <li>Community</li>
+                            <li><Link to='/community'>Community</Link></li>
                             {isLoggedIn ? (
                                 <li><Link to='/profile'><AccountCircleIcon className="text-[24px]" /></Link></li>
                             ) : (

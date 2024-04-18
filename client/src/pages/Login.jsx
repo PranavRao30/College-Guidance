@@ -10,8 +10,8 @@ const LoginPage = () => {
   var [form, setForm] = useState({});
   const navigate = useNavigate();
   var [message, setMessage] = useState("");
-  // const backendPort = 'http://localhost:3000/'; 
-  const backendPort = 'https://college-guidance-backend.onrender.com';
+  const backendPort = 'http://localhost:3000/'; 
+  // const backendPort = 'https://college-guidance-backend.onrender.com';
 
   const handleChange = (event) => {
     const name = event.target.name;

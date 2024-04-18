@@ -6,8 +6,8 @@ import BookmarkBorderIcon from '@mui/icons-material/BookmarkBorder';
 import BookmarkIcon from '@mui/icons-material/Bookmark';
 
 const Prediction = () => {
-  const backendPort = 'https://college-guidance-backend.onrender.com';
-  // const backendPort = 'http://localhost:3000';
+  // const backendPort = 'https://college-guidance-backend.onrender.com';
+  const backendPort = 'http://localhost:3000';
   const [form, setForm] = useState({});
   const [collegeData, setCollegeData] = useState([]);
 

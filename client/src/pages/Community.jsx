@@ -3,14 +3,16 @@ import axios from 'axios';
 import Footer from '../components/footer2';
 import Navbar from '../components/navbar';
 import SendIcon from '@mui/icons-material/Send';
+import { useNavigate } from 'react-router-dom';
 
 const Community = () => {
-    // const backendPort = 'http://localhost:3000';
-    const backendPort = 'https://college-guidance-backend.onrender.com';
+    const backendPort = 'http://localhost:3000';
+    // const backendPort = 'https://college-guidance-backend.onrender.com';
     const token = localStorage.getItem('token');
     const [userDetails, setUserDetails] = useState(null);
     const [messages, setMessages] = useState([]);
     const [newMessage, setnewMessage] = useState('');
+    const navigate = useNavigate();
 
     const handleSubmit = async (e) => {
         e.preventDefault();
@@ -47,9 +49,11 @@ const Community = () => {
                 })
                 .catch(error => {
                     console.error('Error fetching user details:', error);
+                    navigate('/login');
                 });
         } else {
             console.error('Token not found in localStorage');
+            navigate('/login');
         }
 
         const fetchMessages = async () => {
